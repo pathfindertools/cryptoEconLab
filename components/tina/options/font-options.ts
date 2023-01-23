@@ -274,6 +274,7 @@ export const fontOptions: {label: string, value: string}[] = [
   { "label": "Orbitron", "value": "Orbitron:wght@400" },
   { "label": "Oswald Light", "value": "Oswald:wght@300" },
   { "label": "Oswald", "value": "Oswald:wght@400" },
+  { "label": "Outfit", "value": "Outfit:wght@400,600" },
   { "label": "Overpass Extra Light", "value": "Overpass:wght@100" },
   { "label": "Overpass Heavy", "value": "Overpass:wght@900" },
   { "label": "Overpass Light", "value": "Overpass:wght@300" },

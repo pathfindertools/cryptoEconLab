@@ -1,11 +1,16 @@
 {
-  "siteUrl": "events.plnetwork.io",
+  "siteUrl": "",
+  "favicon": "/uploads/favicon.png",
   "gtmId": "",
   "fathomSiteId": "RBFTFNYG",
-  "theme": "content/themes/protocol.md",
+  "theme": "content/themes/cryptoeconlab.md",
   "logo": {
-    "logoTypeStyle": "",
-    "image": ""
+    "logoType": "CryptoEconLab",
+    "logoTypeStyle": "undefined mg-paragraph ",
+    "image": "/uploads/cel_logo.svg",
+    "imageWidth": "172",
+    "imageHeight": "26",
+    "imageMargin": "50"
   },
   "nav": {
     "navAlignment": "text-right",
