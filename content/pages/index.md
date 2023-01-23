@@ -41,6 +41,66 @@ blocks:
       an ever larger role in coordinating human and machine activities in
       building a better future.**
     _template: tailwindFeature
+  - tailwind:
+      section: pt-52 pb-20 pr-10 pl-10
+      wrap: ''
+      imageWrap: ''
+      image: ''
+      contentWrap: 'w-2/3 max-w-4xl mx-auto sm:w-full'
+      content: 'min-h-0 text-center sm:w-full sm:min-h-0'
+      label: ''
+      headline: 'text-black mg-heading-1 mb-6 sm:text-black sm:mg-heading-1 w-full'
+      subhead: text-black mg-heading-5 mb-12
+      text: ''
+      buttons: ''
+      button: ''
+      cardWrap: max-w-4xl mx-auto
+      card: 'border rounded-xl border-gray-dark px-10 py-12 sm:p-6 mb-12'
+      cardImageWrap: >-
+        flex justify-center items-center mb-8 sm:mb-6 sm:flex-column
+        sm:flex-wrap
+      cardImage: 'mr-3 sm:mr-0 sm:mb-5'
+      cardContentWrap: ''
+      cardContent: ''
+      cardHeadline: 'mg-heading-4 text-center sm:w-full'
+      cardText: 'mg-paragraph sm:text-left'
+    background:
+      fillStyles: from-white to-primary bg-gradient-to-b opacity-100
+      src: ''
+      position: object-top
+      ornaments:
+        - src: /uploads/hexagon.svg
+          alignment: top
+          width: '70'
+          height: '80'
+          xOffset: ''
+          yOffset: '100'
+    label: ''
+    headline: Who We Are
+    subhead: >-
+      CryptoEconLab is split into two core groups developing projects that have
+      a positive impact on the global economy:
+    body: ''
+    items:
+      - image:
+          src: /uploads/CEL-Symbol-Black-NoFill.svg
+          alt: CryptoEconLab icon
+        headline: CryptoEconLab Advisory
+        subhead: ''
+        text: >
+          The Advisory team leverages established economic knowledge to develop
+          solutions, beginning with identifying key objectives and ending with
+          mathematical modelling, to address specific problems faced by our
+          clients in building their crypto-native projects.
+      - image:
+          src: /uploads/filecoin-logo.svg
+        headline: CryptoEconLab Filecoin Core
+        subhead: ''
+        text: >
+          Filecoin Core continues our longstanding development of the Filecoin
+          economy by developing models, proposing economic solutions and
+          sustaining the growth of teams in the Protocol Labs Network.
+    _template: tailwindCards
 backgroundColor: white
 meta:
   title: PL Network Events

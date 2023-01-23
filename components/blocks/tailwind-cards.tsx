@@ -19,11 +19,12 @@ const Card = ({ data, index, tw, parentField = ""  }) => {
             data-tinafield={`${parentField}.${index}.image`}
           />
         )}
+        {data.label &&<h4 className={tw.cardLabel} data-tinafield={`${parentField}.${index}.label`}>{data.label}</h4>}
+        {data.headline && <h2 className={tw.cardHeadline} data-tinafield={`${parentField}.${index}.headline`}>{data.headline}</h2>}
       </div>
+
       <div className={tw.cardContentWrap}>
         <div className={`markdown ${tw.content}`}>
-          {data.label &&<h4 className={tw.cardLabel} data-tinafield={`${parentField}.${index}.label`}>{data.label}</h4>}
-          {data.headline && <h2 className={tw.cardHeadline} data-tinafield={`${parentField}.${index}.headline`}>{data.headline}</h2>}
           {data.subhead && <h3 className={tw.cardSubhead} data-tinafield={`${parentField}.${index}.subhead`}>{data.subhead}</h3>}
           {data.text?.children && (
             <div className={tw.cardText} data-tinafield={`${parentField}.${index}.text`}>
