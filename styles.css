@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 
-.mg-paragraph > p {
+.mg-paragraph > p:not(:last-of-type) {
   margin-bottom: 25px;
 }

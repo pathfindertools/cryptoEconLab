@@ -116,19 +116,17 @@ blocks:
       button: ''
       cardWrap: max-w-4xl mx-auto
       card: >-
-        border rounded-xl border-gray-dark flex sm:flex-col pr-10 py-12 sm:p-6
-        mb-12
-      cardImageWrap: >-
-        flex flex-col w-1/2 sm:w-full justify-center items-center px-12 mb-8
-        sm:mt-8
+        border rounded-xl border-gray-dark flex items-center sm:flex-col pr-10
+        py-12 sm:p-6 mb-12
+      cardImageWrap: 'flex flex-col w-1/2 sm:w-full justify-center items-center px-12 my-8'
       cardImage: mb-6
-      cardContentWrap: 'w-1/2 sm:w-full '
+      cardContentWrap: 'w-1/2 sm:w-full sm:mb-8'
       cardHeadline: mg-heading-4 text-center
       cardText: mg-paragraph text-left
     background:
       fillStyles: from-primary to-white bg-gradient-to-b opacity-100
     label: ''
-    headline: Focus Area
+    headline: Focus Areas
     subhead: ''
     body: ''
     items:

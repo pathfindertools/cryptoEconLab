@@ -31,13 +31,13 @@ typo:
       Grotesk:wght@400","size":"23","lineHeight":"30","letterSpacing":"","margin":"","smSize":"23","smLineHeight":"30","smLetterSpacing":"","smMargin":""}
   - label: paragraph
     typography: >-
-      {"family":"Outfit:wght@400","size":"20","lineHeight":"25","letterSpacing":"","margin":"24","smSize":"20","smLineHeight":"25","smLetterSpacing":"","smMargin":"24"}
+      {"family":"Outfit:wght@400","size":"20","lineHeight":"25","letterSpacing":"","margin":"","smSize":"20","smLineHeight":"25","smLetterSpacing":"","smMargin":""}
   - label: paragraph bold
     typography: >-
-      {"family":"Outfit:wght@600","size":"20","lineHeight":"25","letterSpacing":"","margin":"24","smSize":"20","smLineHeight":"25","smLetterSpacing":"","smMargin":""}
+      {"family":"Outfit:wght@600","size":"20","lineHeight":"25","letterSpacing":"","margin":"","smSize":"20","smLineHeight":"25","smLetterSpacing":"","smMargin":""}
   - label: paragraph small
     typography: >-
-      {"family":"Outfit:wght@400","size":"16","lineHeight":"20","letterSpacing":"","margin":"20","smSize":"16","smLineHeight":"20","smLetterSpacing":"","smMargin":"20"}
+      {"family":"Outfit:wght@400","size":"16","lineHeight":"20","letterSpacing":"","margin":"","smSize":"16","smLineHeight":"20","smLetterSpacing":"","smMargin":""}
 buttons:
   - label: Primary Button
     fill: ' opacity-100'
