@@ -15,6 +15,58 @@ const buttonAlignment = (alignment) => {
   return alignmentClasses.map(item => textAlignments[item]).join(' ')
 };
 
+const components = {
+  SocialLinks: props => {
+    let iconSize = '40px';
+    if (props.iconSize === 'small'){
+      iconSize = '20px';
+    }
+    return (
+      <>
+        <div className="flex -mx-2">
+        {props.email && (
+          <a href={'mailto:' + props.email} className="">
+            <img
+              src='/uploads/email.svg'
+              className="w-auto m-2"
+              style={{ 'height': iconSize}}
+            />
+          </a>
+        )}
+        {props.linkedin && (
+          <a href={props.linkedin} className="">
+            <img
+              src='/uploads/linkedin.png'
+              className="w-auto m-2"
+              style={{ 'height': iconSize}}
+            />
+          </a>
+        )}
+        {props.twitter && (
+          <a href={props.twitter} className="">
+            <img
+              src='/uploads/twitter.png'
+              className="w-auto m-2"
+              style={{ 'height': iconSize}}
+            />
+          </a>
+        )}
+        {props.youtube && (
+          <a href={props.youtube} className="">
+            <img
+              src='/uploads/youtube.png'
+              className="w-auto m-2"
+              style={{ 'height': iconSize}}
+            />
+          </a>
+        )}
+            
+        </div>
+      </>
+    )
+  },
+}
+
 export const Content = ({
   data,
   styles,
@@ -38,7 +90,7 @@ export const Content = ({
       {data?.subhead && <h3 className={`${styles.subheadStyles}`} data-tinafield={`${parentField}.subhead`}>{data.subhead}</h3>}
       {data?.body?.children && (
         <div className={`markdown items-center ${styles.textStyles}`} data-tinafield={`${parentField}.body`}>
-          <TinaMarkdown content={data.body} />
+          <TinaMarkdown content={data.body} components={components} />
         </div>
       )}
       {data?.buttons && (

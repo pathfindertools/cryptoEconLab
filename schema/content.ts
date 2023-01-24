@@ -23,8 +23,50 @@ export const contentSchema = [
     type: "string",
   },
   {
+    type: "rich-text",
     label: "Body",
     name: "body",
-    type: "rich-text",
-  }
+    templates: [
+      {
+        name: "SocialLinks",
+        label: "Social Links",
+        fields: [
+          {
+            name: "email",
+            label: "Email Address",
+            type: "string",
+          },
+          {
+            name: "linkedin",
+            label: "LinkedIn URL",
+            type: "string",
+          },
+          {
+            name: "twitter",
+            label: "Twitter URL",
+            type: "string",
+          },
+          {
+            name: "youtube",
+            label: "YouTube URL",
+            type: "string",
+          },
+          {
+            name: "iconSize",
+            label: "Icon Size",
+            type: "string",
+            options: ["default", "small"],
+          },
+        ],
+        ui: {
+          defaultItem: {
+            linkedin: "https://linkedin.com",
+            twitter: "https://twitter.com",
+            iconSize: "default",
+          },
+        },
+      }
+    ],
+    isBody: true,
+  },
 ]

@@ -96,6 +96,38 @@ export const postCollectionSchema: any = {
             },
           },
         },
+        {
+          name: "SocialLinks",
+          label: "Social Links",
+          fields: [
+            {
+              name: "email",
+              label: "Email Address",
+              type: "string",
+            },
+            {
+              name: "linkedin",
+              label: "LinkedIn URL",
+              type: "string",
+            },
+            {
+              name: "twitter",
+              label: "Twitter URL",
+              type: "string",
+            },
+            {
+              name: "youtube",
+              label: "YouTube URL",
+              type: "string",
+            },
+          ],
+          ui: {
+            defaultItem: {
+              linkedin: "https://linkedin.com",
+              twitter: "https://twitter.com",
+            },
+          },
+        },
       ],
       isBody: true,
     },

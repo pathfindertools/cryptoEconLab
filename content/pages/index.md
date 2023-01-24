@@ -211,6 +211,106 @@ blocks:
           topics. Creating lectures, seminars, and web-based content like online
           courses, tutorials, and webinars.
     _template: tailwindCards
+  - tailwind:
+      section: pt-52 pb-20 pr-10 pl-10 border-b-1 border-gray-dark
+      wrap: ''
+      imageWrap: ''
+      image: ''
+      contentWrap: 'w-2/3 max-w-4xl mx-auto sm:w-full'
+      content: 'min-h-0 text-center sm:w-full sm:min-h-0'
+      label: ''
+      headline: mg-heading-3 mb-6
+      subhead: mg-paragraph mb-20
+      text: mg-paragraph
+      buttons: ''
+      button: ''
+      cardWrap: max-w-4xl mx-auto
+      card: border rounded-xl border-gray-dark flex items-center px-10 py-12 mb-12
+      cardImageWrap: >-
+        flex flex-row-reverse sm:flex-col-reverse w-1/2 justify-between
+        items-center sm:items-start px-12 sm:pl-0 my-8 sm:flex-wrap
+      cardImage: 'ml-6 sm:mt-4 sm:ml-0'
+      cardContentWrap: 'w-1/2 sm:mb-8 pl-6'
+      cardContent: ''
+      cardHeadline: mg-paragraph text-center
+      cardText: mg-paragraph-small text-left
+    background:
+      fillStyles: from-accent1 to-primary bg-gradient-to-b opacity-100
+      ornaments:
+        - src: /uploads/partners.svg
+          alignment: top
+          width: '126'
+          height: '80'
+          xOffset: ''
+          yOffset: '100'
+    label: ''
+    headline: Partners
+    subhead: >-
+      Our focus is to integrate research with advanced mathematical and
+      computational engineering to deliver key results for our partners
+      including: researchers, operators, investors, developers and policymakers
+      at for-profit and nonprofit organizations.
+    body: ''
+    items:
+      - image:
+          src: /uploads/arrow_line.svg
+        headline: Researchers
+        subhead: ''
+        text: >
+          Conduct token research, create reports, and form plans to tackle
+          cryptoeconomic problems
+      - headline: Here's Another Card
+        subhead: Card Subhead
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+      - headline: Here's Another Card
+        subhead: Card Subhead
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+    _template: tailwindCards
+  - style:
+      alignment: flex-col-reverse items-start gap-6
+      padding: pt-20 pb-20 pr-20 pl-20
+      featureContent: w-full min-h-0 text-center
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black mg-heading-2 undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: 'text-black undefined '
+    cardStyle:
+      fillStyles: bg-gray opacity-100
+      grid: grid-cols-3 items-start gap-6
+      alignment: flex-row items-start  undefined
+      image: '  undefined undefined'
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      contentPadding: pt-2 pb-2 pr-2 pl-2
+      borderStyles: border-white border-0
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black mg-heading-5 undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black mg-paragraph-small undefined
+      buttonLayout: undefined
+      buttonWidth: undefined
+    label: ''
+    headline: Headline
+    subhead: Subhead
+    body: ''
+    items:
+      - headline: Headline
+        subhead: Subhead
+        body: >+
+          <SocialLinks linkedin="https://linkedin.com"
+          twitter="https://twitter.com" iconSize="small" email="test@test.com"
+          />
+
+      - headline: Headline
+        subhead: Subhead
+        body: >
+          <SocialLinks linkedin="https://linkedin.com"
+          twitter="https://twitter.com" />
+      - headline: Headline
+        subhead: Subhead
+        body: ''
+    _template: cards
 backgroundColor: white
 meta:
   title: PL Network Events
