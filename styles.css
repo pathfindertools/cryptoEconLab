@@ -12,3 +12,12 @@
   font-size: 23px;
   line-height: 30px;
 }
+.markdown strong ~ a {
+  color: #49C4FF !important;  
+  margin-left: 12px;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  text-decoration: none;
+}

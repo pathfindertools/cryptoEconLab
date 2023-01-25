@@ -14,8 +14,8 @@
   },
   "nav": {
     "navAlignment": "text-right",
-    "navTypeStyle": "text-black mg-paragraph-small ",
-    "navBackgroundColor": "bg-white opacity-100",
+    "navTypeStyle": "text-black mg-paragraph-small  sm:text-white mg-paragraph sm:",
+    "navBackgroundColor": "bg-accent3 opacity-100",
     "padding": "pt-7 pb-10 pr-10 pl-8"
   }
 }

@@ -5,6 +5,8 @@ colors:
   primary: '#FFFFF3'
   accent1: '#EDFCE7'
   accent2: '#49C4FF'
+  accent3: '#FF8156'
+  accent4: '#000000'
   white: '#FFFFFF'
   grayDark: '#7D7D7D'
   black: '#000000'
@@ -39,16 +41,9 @@ typo:
     typography: >-
       {"family":"Outfit:wght@400","size":"16","lineHeight":"20","letterSpacing":"","margin":"","smSize":"16","smLineHeight":"20","smLetterSpacing":"","smMargin":""}
 buttons:
-  - label: Resource Buttons
-    fill: ' opacity-100'
-    typography: >-
-      {"color":"text-primary","family":"Outfit:wght@400","size":"15","lineHeight":"18","letterSpacing":"0","smSize":"15","smLineHeight":"16","smLetterSpacing":"0"}
-    padding: undefined undefined undefined undefined
-    primaryBorder: border-accent3 border-1
-    primaryRounded: rounded-lg
   - fill: ' opacity-100'
     typography: >-
-      {"color":"text-primary","family":"Arial","size":"16","lineHeight":"16","letterSpacing":"0","smSize":"16","smLineHeight":"16","smLetterSpacing":"0"}
+      {"color":"text-primary","family":"Outfit:wght@400","size":"16","lineHeight":"16","letterSpacing":"0","smSize":"16","smLineHeight":"16","smLetterSpacing":"0"}
     padding: undefined undefined undefined undefined
     primaryBorder: border-white border-0
     primaryRounded: undefined

@@ -269,7 +269,7 @@ blocks:
           alt: Dave Costenaro
         headline: ''
         subhead: ''
-        body: >+
+        body: >
           <SocialLinks linkedin="https://www.linkedin.com/in/davidcostenaro/"
           twitter="https://twitter.com/DaveCostenaro" iconSize="small" />
 
@@ -278,13 +278,12 @@ blocks:
 
 
           Boeing, Capacity, Applied Energy Group
-
       - image:
           src: /uploads/echan-chordia.jpg
           alt: Eshan Chordia
         headline: ''
         subhead: ''
-        body: >+
+        body: >
           <SocialLinks linkedin="https://www.linkedin.com/in/echordia/"
           twitter="https://twitter.com/eshanchordia" iconSize="small" />
 
@@ -293,14 +292,14 @@ blocks:
 
 
           Zesty.ai, Nootry Founder / CEO, Carnegie Mellon
-
       - image:
           src: /uploads/jp-madrigal-cianci.jpg
           alt: JP Madrigal Cianci
         body: >
           <SocialLinks
           linkedin="https://www.linkedin.com/in/juan-pablo-madrigal-cianci/"
-          twitter="https://twitter.com/MadrigalCianci" iconSize="small" />
+          twitter="https://twitter.com/MadrigalCianci" iconSize="small" email=""
+          youtube="" />
 
 
           ##### JP Madrigal Cianci, PhD
@@ -405,7 +404,7 @@ blocks:
       contentWrap: 'w-2/3 max-w-4xl mx-auto sm:w-full'
       content: 'min-h-0 text-center sm:w-full sm:min-h-0'
       label: ''
-      headline: mg-heading-3 mb-6
+      headline: mg-heading-2 mb-6
       subhead: mg-paragraph mb-20
       text: mg-paragraph
       buttons: ''
@@ -421,7 +420,7 @@ blocks:
       cardHeadline: mg-paragraph text-center
       cardText: mg-paragraph-small text-left
     background:
-      fillStyles: from-accent1 to-primary bg-gradient-to-b opacity-100
+      fillStyles: from-accent1 to-white bg-gradient-to-b opacity-100
       ornaments:
         - src: /uploads/partners.svg
           alignment: top
@@ -472,6 +471,59 @@ blocks:
         text: |
           Advise policy on tokeneconomic frameworks
     navigationLabel: Partners
+    _template: tailwindCards
+  - tailwind:
+      section: pt-52 pb-20 pr-10 pl-10 border-b-1 border-gray-dark
+      wrap: ''
+      imageWrap: ''
+      image: ''
+      contentWrap: 'w-2/3 max-w-4xl mx-auto sm:w-full'
+      content: 'min-h-0 text-center sm:w-full sm:min-h-0'
+      label: ''
+      headline: mg-heading-2 mb-6
+      subhead: mg-paragraph mb-20
+      text: mg-paragraph
+      buttons: ''
+      button: ''
+      cardWrap: max-w-5xl mx-auto flex align-center justify-center flex-wrap
+      card: 'mb-4 w-1/5 lg:w-1/2  p-4 h-32 min-h-full'
+      cardContentWrap: h-full
+      cardContent: ''
+      cardButtons: >-
+        border border-gray-dark rounded-lg p-2 h-full flex flex-col
+        justify-center
+      cardButton: ' text-accent2 mg-paragraph-small text-center'
+    background:
+      fillStyles: bg-white opacity-100
+      ornaments:
+        - src: /uploads/resources.svg
+          alignment: top
+          width: '85.5'
+          height: '70'
+          yOffset: '100'
+    label: ''
+    headline: Resources
+    subhead: >-
+      We are passionate about giving back to the community. Please check our
+      research, publications, talks and presentations we have recently held. If
+      you would like to see more, make sure to subscribe to our YouTube channel,
+      follow our blog on Medium or connect with us on Twitter and LinkedIn for
+      all updated content.
+    body: ''
+    items:
+      - headline: ''
+        subhead: ''
+        text: ''
+        link: 'https://hackmd.io/@cryptoecon/Bkit3d6ej/%2FvTAGfLTITEmokbPAhhKUaA'
+        buttonLabel: Economic Reports & Publications
+      - link: 'https://github.com/protocol/CryptoEconLab'
+        buttonLabel: GitHub Repos & Commits
+      - link: 'https://www.cryptoeconday.io/videos'
+        buttonLabel: Presentations
+      - link: 'https://medium.com/cryptoeconlab'
+        buttonLabel: CryptoEconLab Blog
+      - link: 'https://cryptoeconlab.io/79100f7b0f9b427db628c5f53906929c'
+        buttonLabel: Recommended Reading
     _template: tailwindCards
 backgroundColor: white
 meta:
