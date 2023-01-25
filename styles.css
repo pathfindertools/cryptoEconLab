@@ -30,3 +30,8 @@
   border-top: 1px solid #7D7D7D;
   border-bottom: 1px solid #7D7D7D;
 }
+
+footer .markdown ul {
+  margin: 0;
+  list-style: none;
+}

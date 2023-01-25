@@ -272,8 +272,10 @@ export const Layout = ({ rawData, data = layoutData, children }) => {
         <Header blocks={page?.blocks} globalData={global} />
         <div className={`flex flex-col`}>
           {children}
-          <Blocks blocks={global.blocks} />
         </div>
+        <footer>
+          <Blocks blocks={global.blocks} />
+        </footer>
       </div>
     </>
   );

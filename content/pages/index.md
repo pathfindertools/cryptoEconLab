@@ -516,13 +516,17 @@ blocks:
         text: ''
         link: 'https://hackmd.io/@cryptoecon/Bkit3d6ej/%2FvTAGfLTITEmokbPAhhKUaA'
         buttonLabel: Economic Reports & Publications
-      - link: 'https://github.com/protocol/CryptoEconLab'
+      - text: ''
+        link: 'https://github.com/protocol/CryptoEconLab'
         buttonLabel: GitHub Repos & Commits
-      - link: 'https://www.cryptoeconday.io/videos'
+      - text: ''
+        link: 'https://www.cryptoeconday.io/videos'
         buttonLabel: Presentations
-      - link: 'https://medium.com/cryptoeconlab'
+      - text: ''
+        link: 'https://medium.com/cryptoeconlab'
         buttonLabel: CryptoEconLab Blog
-      - link: 'https://cryptoeconlab.io/79100f7b0f9b427db628c5f53906929c'
+      - text: ''
+        link: 'https://cryptoeconlab.io/79100f7b0f9b427db628c5f53906929c'
         buttonLabel: Recommended Reading
     navigationLabel: Resources
     _template: tailwindCards
@@ -557,7 +561,7 @@ blocks:
       alignment: 'flex-col-reverse items-center '
       padding: pt-52 pb-20 pr-10 pl-10
       featureImage: '  mx-auto'
-      featureContent: 'w-4/5 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-left'
+      featureContent: 'w-4/5 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-center'
       labelStyles: text-black undefined undefined
       headlineStyles: text-black mg-heading-2 mb-8
       subheadStyles: text-black undefined undefined
@@ -572,12 +576,11 @@ blocks:
           yOffset: '100'
     headline: Contact Us
     subhead: ''
-    body: >+
+    body: >
       <SocialLinks linkedin="https://www.linkedin.com/company/cryptoeconlab/"
       twitter="https://mobile.twitter.com/cryptoeconlab" iconSize="default"
       email="mike.mccoy@protocol.ai"
       youtube="https://www.youtube.com/c/ProtocolLabs" />
-
     navigationLabel: Contact
     _template: feature
 backgroundColor: white

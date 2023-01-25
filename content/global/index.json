@@ -17,5 +17,55 @@
     "navTypeStyle": "text-black mg-paragraph-small  sm:text-white mg-paragraph sm:",
     "navBackgroundColor": "bg-accent3 opacity-100",
     "padding": "pt-7 pb-10 pr-10 pl-8"
-  }
+  },
+  "blocks": [
+    {
+      "style": {
+        "alignment": "flex-row-reverse items-center gap-6 sm:flex-col-reverse sm:items-center sm:gap-12",
+        "padding": "pt-20 pb-20 pr-20 pl-20 sm:pt-20 sm:pb-20 sm:pr-10 sm:pl-10",
+        "featureContent": "w-1/2 min-h-0 text-left sm:w-full sm:min-h-0 sm:text-left",
+        "labelStyles": "text-black undefined undefined",
+        "headlineStyles": "text-black undefined undefined",
+        "subheadStyles": "text-black undefined undefined",
+        "textStyles": "text-black undefined undefined"
+      },
+      "cardStyle": {
+        "fillStyles": "bg-gray opacity-100",
+        "grid": "grid-cols-2 items-start gap-6",
+        "alignment": "flex-row items-start  undefined",
+        "image": "  undefined undefined",
+        "imagePadding": "pt-0 pb-0 pr-0 pl-0",
+        "contentPadding": "pt-2 pb-2 pr-2 pl-2",
+        "borderStyles": "border-white border-0",
+        "labelStyles": "text-black undefined undefined",
+        "headlineStyles": "text-black mg-paragraph-bold mb-4",
+        "subheadStyles": "text-black undefined undefined",
+        "textStyles": "text-black mg-paragraph undefined",
+        "buttonLayout": "undefined",
+        "buttonWidth": "undefined"
+      },
+      "background": {
+        "fillStyles": "bg-primary opacity-100",
+        "src": "",
+        "position": ""
+      },
+      "label": "",
+      "headline": "",
+      "subhead": "",
+      "body": "![](</uploads/CEL-Full-Primary-Black-NoFill (2).svg> \"\")\n",
+      "items": [
+        {
+          "headline": "Company",
+          "subhead": "",
+          "body": "* [Protocol Labs](https://protocol.ai/ \"Protocol Labs\")\n* [Protocol Labs Research](https://research.protocol.ai/ \"Protocol Labs Research\")\n* [Filecoin](https://filecoin.io/ \"Filecoin\")\n\n"
+        },
+        {
+          "headline": "Social",
+          "subhead": "",
+          "body": "* [Twitter](https://mobile.twitter.com/cryptoeconlab \"Twitter\")\n* [LinkedIn](https://www.linkedin.com/company/cryptoeconlab/ \"LinkedIn\")\n* [YouTube](https://www.youtube.com/c/ProtocolLabs \"YouTube\")\n\n"
+        }
+      ],
+      "_template": "cards"
+    }
+  ]
 }
