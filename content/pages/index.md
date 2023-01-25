@@ -42,14 +42,14 @@ blocks:
       building a better future.**
     _template: tailwindFeature
   - tailwind:
-      section: 'pt-52 pb-20 pr-10 pl-10 sm:pb-6'
+      section: 'pt-52 pb-10 pr-10 pl-10 sm:pb-6'
       wrap: ''
       imageWrap: ''
       image: ''
       contentWrap: 'w-2/3 max-w-4xl mx-auto sm:w-full'
       content: 'min-h-0 text-center sm:w-full sm:min-h-0'
       label: ''
-      headline: 'text-black mg-heading-1 mb-6 sm:text-black sm:mg-heading-1 w-full'
+      headline: 'text-black mg-heading-2 mb-6 sm:text-black sm:mg-heading-1 w-full'
       subhead: text-black mg-heading-5 mb-12
       text: ''
       buttons: ''
@@ -100,6 +100,7 @@ blocks:
           Filecoin Core continues our longstanding development of the Filecoin
           economy by developing models, proposing economic solutions and
           sustaining the growth of teams in the Protocol Labs Network.
+    navigationLabel: Who We Are
     _template: tailwindCards
   - tailwind:
       section: pb-20 pr-10 pl-10 border-b-1 border-gray-dark
@@ -121,7 +122,7 @@ blocks:
       cardImageWrap: 'flex flex-col w-1/2 sm:w-full justify-center items-center px-12 my-8'
       cardImage: mb-6
       cardContentWrap: 'w-1/2 sm:w-full sm:mb-8'
-      cardHeadline: mg-heading-4 text-center
+      cardHeadline: mg-heading-5 text-center w-3/4
       cardText: mg-paragraph text-left
     background:
       fillStyles: from-primary to-white bg-gradient-to-b opacity-100
@@ -211,8 +212,193 @@ blocks:
           topics. Creating lectures, seminars, and web-based content like online
           courses, tutorials, and webinars.
     _template: tailwindCards
+  - style:
+      alignment: flex-col-reverse items-start gap-6
+      padding: 'pt-52 pb-32 pr-20 pl-20 sm:pt-52 sm:pb-14 sm:pr-10 sm:pl-10'
+      featureContent: w-full min-h-0 text-center
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black mg-heading-2 mb-10
+      subheadStyles: text-black mg-paragraph mb-12
+      textStyles: text-black mg-heading-4 mb-16
+    cardStyle:
+      fillStyles: ' opacity-100'
+      grid: >-
+        grid-cols-4 justify-center gap-6 sm:grid-cols-1 sm:justify-center
+        sm:gap-6
+      alignment: flex-col items-center  text-center
+      image: wpx- hpx-158 object-center object-cover
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      contentPadding: 'pt-3.5 pb-5 pr-2 pl-2 sm:pt-5 sm:pb-5 sm:pr-2 sm:pl-2'
+      borderStyles: border-white border-0
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black mg-heading-5 undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black mg-paragraph-small undefined
+      buttonLayout: justify-start
+      buttonWidth: w-auto
+    background:
+      fillStyles: from-white to-accent1 bg-gradient-to-b opacity-100
+      ornaments:
+        - src: /uploads/team.svg
+          alignment: top
+          yOffset: '100'
+    label: ''
+    headline: Our Team
+    subhead: >-
+      We combine the expertise of economics and network design with
+      crypto-native primitives at scale. Our team has in depth knowledge and
+      global representation across the Americas, EMEA and APAC
+    body: "**Join Us! We're Hiring:**[ \U0001F4DD Apply Here](https://boards.greenhouse.io/protocollabs \"Apply Here\") [\U0001F46A Team Member Info](https://cryptoeconlab.io/732dd435a71c471a900a5ea9aff85c1b \"Team Member Info\")\n"
+    items:
+      - image:
+          src: /uploads/axel-cortes-cubero.jpg
+          alt: Axel Cortés Cubero
+        headline: ''
+        subhead: ''
+        body: >
+          <SocialLinks linkedin="https://www.linkedin.com/in/axelcortescubero/"
+          twitter="" iconSize="small" email="" />
+
+
+          ##### Axel Cortés Cubero
+
+
+          Univ. de Puerto Rico, UvA, Ultrecht Univ.
+      - image:
+          src: /uploads/dave-costenaro.jpg
+          alt: Dave Costenaro
+        headline: ''
+        subhead: ''
+        body: >+
+          <SocialLinks linkedin="https://www.linkedin.com/in/davidcostenaro/"
+          twitter="https://twitter.com/DaveCostenaro" iconSize="small" />
+
+
+          ##### Dave Costenaro
+
+
+          Boeing, Capacity, Applied Energy Group
+
+      - image:
+          src: /uploads/echan-chordia.jpg
+          alt: Eshan Chordia
+        headline: ''
+        subhead: ''
+        body: >+
+          <SocialLinks linkedin="https://www.linkedin.com/in/echordia/"
+          twitter="https://twitter.com/eshanchordia" iconSize="small" />
+
+
+          ##### Eshan Chordia
+
+
+          Zesty.ai, Nootry Founder / CEO, Carnegie Mellon
+
+      - image:
+          src: /uploads/jp-madrigal-cianci.jpg
+          alt: JP Madrigal Cianci
+        body: >
+          <SocialLinks
+          linkedin="https://www.linkedin.com/in/juan-pablo-madrigal-cianci/"
+          twitter="https://twitter.com/MadrigalCianci" iconSize="small" />
+
+
+          ##### JP Madrigal Cianci, PhD
+
+
+          University of New Mexico, École Polytechnique Fédérale de Lausanne,
+          Advanced Blockchain
+      - image:
+          src: /uploads/kiran-karra.jpg
+          alt: Kiran Karra
+        body: >
+          <SocialLinks
+          linkedin="https://www.linkedin.com/in/kiran-karra-0815ba70/"
+          twitter="" iconSize="small" />
+
+
+          ##### Kiran Karra
+
+
+          Johns Hopkins Univ, Virginia Tech, Northrop Grumman
+      - image:
+          src: /uploads/maria-silva.jpg
+          alt: Maria Silva
+        body: >
+          <SocialLinks
+          linkedin="https://www.linkedin.com/in/maria-in%C3%AAs-silva-17605173/"
+          twitter="" iconSize="small" />
+
+
+          ##### Maria Silva
+
+
+          Elliptic, Feedzai
+      - image:
+          src: /uploads/mike-mccoy.jpg
+          alt: Mike McCoy
+        body: >
+          <SocialLinks linkedin="https://www.linkedin.com/in/mikemccoyphl/"
+          twitter="https://twitter.com/emceecoy_" iconSize="small" />
+
+
+          ##### Mike McCoy
+
+
+          ConsenSys, Accenture, Blockdaemon
+      - image:
+          src: /uploads/shyam-sridhar.jpg
+          alt: Shyam Sridhar
+        body: >
+          <SocialLinks linkedin="https://www.linkedin.com/in/shyam-sridhar/"
+          twitter="https://twitter.com/ShyamSridhar7" iconSize="small" />
+
+
+          ##### Shyam Sridhar
+
+
+          Ethereum Foundation
+      - image:
+          src: /uploads/tom-mellan.jpg
+          alt: Tom Mellan
+        body: >
+          <SocialLinks linkedin="https://www.linkedin.com/in/mellanthomas/"
+          twitter="https://twitter.com/MellanTom" iconSize="small" />
+
+
+          ##### Tom Mellan
+
+
+          Imperial College London, Univ. College London
+      - image:
+          src: /uploads/vik-kalghatgi.jpg
+          alt: Vik Kalghatgi
+        body: >
+          <SocialLinks linkedin="https://www.linkedin.com/in/vik-k-b99a4a153/"
+          twitter="https://twitter.com/vik_kalghatgi" iconSize="small"
+          youtube="" />
+
+
+          ##### Vik Kalghatgi
+
+
+          AQR Capital Management
+      - image:
+          src: /uploads/zx-zhang.jpg
+          alt: ZX Zhang
+        body: >
+          <SocialLinks linkedin="https://www.linkedin.com/in/zx-zhang-upenn/"
+          twitter="" iconSize="small" />
+
+
+          ##### ZX Zhang
+
+
+          ConsenSys, Ethereum Foundation, Bridgewater Associates
+    navigationLabel: Team
+    _template: cards
   - tailwind:
-      section: pt-52 pb-20 pr-10 pl-10 border-b-1 border-gray-dark
+      section: pt-52 pb-20 pr-10 pl-10 border-t-1 border-b-1 border-gray-dark
       wrap: ''
       imageWrap: ''
       image: ''
@@ -230,7 +416,7 @@ blocks:
         flex flex-row-reverse sm:flex-col-reverse w-1/2 justify-between
         items-center sm:items-start px-12 sm:pl-0 my-8 sm:flex-wrap
       cardImage: 'ml-6 sm:mt-4 sm:ml-0'
-      cardContentWrap: 'w-1/2 sm:mb-8 pl-6'
+      cardContentWrap: w-1/2 pl-6
       cardContent: ''
       cardHeadline: mg-paragraph text-center
       cardText: mg-paragraph-small text-left
@@ -259,58 +445,34 @@ blocks:
         text: >
           Conduct token research, create reports, and form plans to tackle
           cryptoeconomic problems
-      - headline: Here's Another Card
-        subhead: Card Subhead
+      - image:
+          src: /uploads/arrow_line.svg
+        headline: Operators
+        subhead: ''
+        text: >
+          Define system requirements, goals, mechanisms and policies to seize
+          market opportunities and achieve sustainable growth
+      - image:
+          src: /uploads/arrow_line.svg
+        headline: Investors
+        subhead: ''
+        text: >
+          Visualizations, embeddable charts and diagrams to review
+          cryptoeconomic analysis, valuation analysis, due diligence
+      - image:
+          src: /uploads/arrow_line.svg
+        headline: Developers
+        text: >
+          Simplify engineering workflow for problem framing, experiment
+          planning, model coding, simulation analysis, documentation, and
+          results sharing
+      - image:
+          src: /uploads/arrow_line.svg
+        headline: Policymakers
         text: |
-          This is a rich text component you can add hyperlinks, etc.
-      - headline: Here's Another Card
-        subhead: Card Subhead
-        text: |
-          This is a rich text component you can add hyperlinks, etc.
+          Advise policy on tokeneconomic frameworks
+    navigationLabel: Partners
     _template: tailwindCards
-  - style:
-      alignment: flex-col-reverse items-start gap-6
-      padding: pt-20 pb-20 pr-20 pl-20
-      featureContent: w-full min-h-0 text-center
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-black mg-heading-2 undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: 'text-black undefined '
-    cardStyle:
-      fillStyles: bg-gray opacity-100
-      grid: grid-cols-3 items-start gap-6
-      alignment: flex-row items-start  undefined
-      image: '  undefined undefined'
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      contentPadding: pt-2 pb-2 pr-2 pl-2
-      borderStyles: border-white border-0
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-black mg-heading-5 undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black mg-paragraph-small undefined
-      buttonLayout: undefined
-      buttonWidth: undefined
-    label: ''
-    headline: Headline
-    subhead: Subhead
-    body: ''
-    items:
-      - headline: Headline
-        subhead: Subhead
-        body: >+
-          <SocialLinks linkedin="https://linkedin.com"
-          twitter="https://twitter.com" iconSize="small" email="test@test.com"
-          />
-
-      - headline: Headline
-        subhead: Subhead
-        body: >
-          <SocialLinks linkedin="https://linkedin.com"
-          twitter="https://twitter.com" />
-      - headline: Headline
-        subhead: Subhead
-        body: ''
-    _template: cards
 backgroundColor: white
 meta:
   title: PL Network Events

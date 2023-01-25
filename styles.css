@@ -6,3 +6,9 @@
 .mg-paragraph > p:not(:last-of-type) {
   margin-bottom: 25px;
 }
+.markdown h5 {
+  font-family: "Space Grotesk";
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 30px;
+}
