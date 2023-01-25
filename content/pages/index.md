@@ -524,7 +524,62 @@ blocks:
         buttonLabel: CryptoEconLab Blog
       - link: 'https://cryptoeconlab.io/79100f7b0f9b427db628c5f53906929c'
         buttonLabel: Recommended Reading
+    navigationLabel: Resources
     _template: tailwindCards
+  - style:
+      alignment: 'flex-col items-center '
+      padding: pt-52 pb-20 pr-10 pl-10
+      featureImage: '  mx-auto'
+      featureContent: w-4/5 min-h-0 text-center
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black mg-heading-2 mb-9
+      subheadStyles: text-black mg-paragraph mb-4
+      textStyles: text-accent2 mg-heading-5 mb-6
+    background:
+      fillStyles: ' opacity-100'
+      position: ''
+      ornaments:
+        - src: /uploads/crypto-econ-day.svg
+          alignment: top
+          width: '72'
+          height: '80'
+          yOffset: '100'
+    headline: CryptoEconDay
+    subhead: >-
+      CryptoEconDay is a gathering of Web3 researchers and practitioners sharing
+      findings, lessons learned, and answering some of our most challenging
+      questions around the topic of cryptoeconomics.
+    body: |
+      [Learn More ](https://www.cryptoeconday.io/ "CryptoEconDay")
+    navigationLabel: CryptoEconDay
+    _template: feature
+  - style:
+      alignment: 'flex-col-reverse items-center '
+      padding: pt-52 pb-20 pr-10 pl-10
+      featureImage: '  mx-auto'
+      featureContent: 'w-4/5 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-left'
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black mg-heading-2 mb-8
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black mg-paragraph undefined
+    background:
+      fillStyles: bg-primary opacity-100
+      ornaments:
+        - src: /uploads/contact.svg
+          alignment: top
+          width: '78'
+          height: '80'
+          yOffset: '100'
+    headline: Contact Us
+    subhead: ''
+    body: >+
+      <SocialLinks linkedin="https://www.linkedin.com/company/cryptoeconlab/"
+      twitter="https://mobile.twitter.com/cryptoeconlab" iconSize="default"
+      email="mike.mccoy@protocol.ai"
+      youtube="https://www.youtube.com/c/ProtocolLabs" />
+
+    navigationLabel: Contact
+    _template: feature
 backgroundColor: white
 meta:
   title: PL Network Events

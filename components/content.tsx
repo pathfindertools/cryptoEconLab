@@ -23,7 +23,7 @@ const components = {
     }
     return (
       <>
-        <div className="flex -mx-2 justify-center items-center">
+        <div className={`flex -mx-2 justify-center items-center ${props.iconSize === 'default' ? 'gap-4' : ''}`}>
         {props.email && (
           <a href={'mailto:' + props.email} className="">
             <img

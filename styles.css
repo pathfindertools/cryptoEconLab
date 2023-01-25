@@ -21,3 +21,12 @@
   line-height: 25px;
   text-decoration: none;
 }
+
+.markdown a {
+  text-decoration: none;
+}
+
+#contact {
+  border-top: 1px solid #7D7D7D;
+  border-bottom: 1px solid #7D7D7D;
+}
