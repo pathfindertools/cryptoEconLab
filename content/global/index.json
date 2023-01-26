@@ -14,9 +14,9 @@
   },
   "nav": {
     "navAlignment": "text-right",
-    "navTypeStyle": "text-black mg-paragraph-small  sm:text-white mg-paragraph sm:",
-    "navBackgroundColor": "bg-accent3 opacity-100",
-    "padding": "pt-7 pb-10 pr-10 pl-8"
+    "navTypeStyle": "text-black mg-paragraph-small ",
+    "navBackgroundColor": "bg-white opacity-100",
+    "padding": "pt-7 pb-7 pr-8 pl-8"
   },
   "blocks": [
     {
@@ -57,12 +57,12 @@
         {
           "headline": "Company",
           "subhead": "",
-          "body": "* [Protocol Labs](https://protocol.ai/ \"Protocol Labs\")\n* [Protocol Labs Research](https://research.protocol.ai/ \"Protocol Labs Research\")\n* [Filecoin](https://filecoin.io/ \"Filecoin\")\n\n"
+          "body": "* [Protocol Labs](https://protocol.ai/ \"Protocol Labs\")\n* [Protocol Labs Research](https://research.protocol.ai/ \"Protocol Labs Research\")\n* [Filecoin](https://filecoin.io/ \"Filecoin\")\n"
         },
         {
           "headline": "Social",
           "subhead": "",
-          "body": "* [Twitter](https://mobile.twitter.com/cryptoeconlab \"Twitter\")\n* [LinkedIn](https://www.linkedin.com/company/cryptoeconlab/ \"LinkedIn\")\n* [YouTube](https://www.youtube.com/c/ProtocolLabs \"YouTube\")\n\n"
+          "body": "* [Twitter](https://mobile.twitter.com/cryptoeconlab \"Twitter\")\n* [LinkedIn](https://www.linkedin.com/company/cryptoeconlab/ \"LinkedIn\")\n* [YouTube](https://www.youtube.com/c/ProtocolLabs \"YouTube\")\n"
         }
       ],
       "_template": "cards"

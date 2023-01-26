@@ -9,18 +9,25 @@
 .markdown h5 {
   font-family: "Space Grotesk";
   font-weight: 600;
-  font-size: 23px;
-  line-height: 30px;
+  font-size: 20px;
+  line-height: 28px;
+  margin-bottom: 10px;
 }
-.markdown strong ~ a {
+.markdown h5 ~ p a {
   color: #49C4FF !important;  
   margin-left: 12px;
   font-family: 'Outfit';
   font-weight: 400;
   font-size: 20px;
-  line-height: 25px;
+  line-height: 28px;
   text-decoration: none;
+
+  @media (max-width: 600px){
+    display: block;
+    margin-bottom: 10px;
+  }
 }
+
 
 .markdown a {
   text-decoration: none;

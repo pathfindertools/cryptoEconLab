@@ -2,7 +2,7 @@
 blocks:
   - tailwind:
       section: >-
-        flex-col-reverse items-center pt-48 pb-20 pr-10 pl-10 border-b-1
+        flex-col-reverse items-center pt-48 pb-20 pr-6 pl-6 border-b-1
         border-gray-dark
       wrap: ''
       imageWrap: ''
@@ -42,7 +42,7 @@ blocks:
       building a better future.**
     _template: tailwindFeature
   - tailwind:
-      section: 'pt-52 pb-10 pr-10 pl-10 sm:pb-6'
+      section: 'pt-52 pb-10 pr-6 pl-6 sm:pb-6'
       wrap: ''
       imageWrap: ''
       image: ''
@@ -103,7 +103,7 @@ blocks:
     navigationLabel: Who We Are
     _template: tailwindCards
   - tailwind:
-      section: pb-20 pr-10 pl-10 border-b-1 border-gray-dark
+      section: pb-20 pr-6 pl-6 border-b-1 border-gray-dark
       wrap: ''
       imageWrap: ''
       image: ''
@@ -213,9 +213,9 @@ blocks:
           courses, tutorials, and webinars.
     _template: tailwindCards
   - style:
-      alignment: flex-col-reverse items-start gap-6
-      padding: 'pt-52 pb-32 pr-20 pl-20 sm:pt-52 sm:pb-14 sm:pr-10 sm:pl-10'
-      featureContent: w-full min-h-0 text-center
+      alignment: flex-col-reverse items-center gap-6
+      padding: 'pt-52 pb-14 pr-20 pl-20 sm:pt-52 sm:pb-14 sm:pr-5 sm:pl-5'
+      featureContent: 'w-3/4 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-center'
       labelStyles: text-black undefined undefined
       headlineStyles: text-black mg-heading-2 mb-10
       subheadStyles: text-black mg-paragraph mb-12
@@ -248,7 +248,7 @@ blocks:
       We combine the expertise of economics and network design with
       crypto-native primitives at scale. Our team has in depth knowledge and
       global representation across the Americas, EMEA and APAC
-    body: "**Join Us! We're Hiring:**[ \U0001F4DD Apply Here](https://boards.greenhouse.io/protocollabs \"Apply Here\") [\U0001F46A Team Member Info](https://cryptoeconlab.io/732dd435a71c471a900a5ea9aff85c1b \"Team Member Info\")\n"
+    body: "##### **Join Us! We're Hiring:**\n\n[\U0001F4DD Apply Here](https://boards.greenhouse.io/protocollabs \"Apply Here\") [\U0001F46A Team Member Info](https://cryptoeconlab.io/732dd435a71c471a900a5ea9aff85c1b \"Team Member Info\")\n"
     items:
       - image:
           src: /uploads/axel-cortes-cubero.jpg
@@ -397,7 +397,7 @@ blocks:
     navigationLabel: Team
     _template: cards
   - tailwind:
-      section: pt-52 pb-20 pr-10 pl-10 border-t-1 border-b-1 border-gray-dark
+      section: pt-52 pb-20 pr-6 pl-6 border-t-1 border-b-1 border-gray-dark
       wrap: ''
       imageWrap: ''
       image: ''
@@ -473,7 +473,7 @@ blocks:
     navigationLabel: Partners
     _template: tailwindCards
   - tailwind:
-      section: pt-52 pb-20 pr-10 pl-10 border-b-1 border-gray-dark
+      section: pt-52 pb-20 pr-4 pl-4 border-b-1 border-gray-dark
       wrap: ''
       imageWrap: ''
       image: ''
@@ -486,8 +486,8 @@ blocks:
       buttons: ''
       button: ''
       cardWrap: max-w-5xl mx-auto flex align-center justify-center flex-wrap
-      card: 'mb-4 w-1/5 lg:w-1/2  p-4 h-32 min-h-full'
-      cardContentWrap: h-full
+      card: 'mb-4 w-1/5 lg:w-1/2  p-4 sm:p-2 h-32 min-h-full'
+      cardContentWrap: h-full whitespace-wrap
       cardContent: ''
       cardButtons: >-
         border border-gray-dark rounded-lg p-2 h-full flex flex-col
@@ -532,9 +532,9 @@ blocks:
     _template: tailwindCards
   - style:
       alignment: 'flex-col items-center '
-      padding: pt-52 pb-20 pr-10 pl-10
+      padding: 'pt-44 pb-16 pr-10 pl-10 sm:pt-44 sm:pb-16 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
-      featureContent: w-4/5 min-h-0 text-center
+      featureContent: 'w-4/5 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-center'
       labelStyles: text-black undefined undefined
       headlineStyles: text-black mg-heading-2 mb-9
       subheadStyles: text-black mg-paragraph mb-4
@@ -547,7 +547,7 @@ blocks:
           alignment: top
           width: '72'
           height: '80'
-          yOffset: '100'
+          yOffset: '76'
     headline: CryptoEconDay
     subhead: >-
       CryptoEconDay is a gathering of Web3 researchers and practitioners sharing
@@ -559,7 +559,7 @@ blocks:
     _template: feature
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: pt-52 pb-20 pr-10 pl-10
+      padding: 'pt-44 pb-14 pr-10 pl-10 sm:pt-44 sm:pb-14 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
       featureContent: 'w-4/5 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-center'
       labelStyles: text-black undefined undefined
@@ -573,7 +573,7 @@ blocks:
           alignment: top
           width: '78'
           height: '80'
-          yOffset: '100'
+          yOffset: '76'
     headline: Contact Us
     subhead: ''
     body: >
