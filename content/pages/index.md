@@ -198,19 +198,6 @@ blocks:
           identifying potential risks, and identifying opportunities for growth.
           Ultimately, these assessments are used to help determine whether the
           project is worth investing in or not.
-      - image:
-          src: /uploads/atom.svg
-        headline: Marketing & Educational Material
-        text: >
-          Promote a company, product, token or service. Through articles,
-          whitepapers, long-form reports, podcasts, and video materials. As well
-          as promoting messaging and content through our social channels and
-          research seminars (CryptoEconDays).
-
-
-          Educational material is designed to teach about crypto subjects or
-          topics. Creating lectures, seminars, and web-based content like online
-          courses, tutorials, and webinars.
     _template: tailwindCards
   - style:
       alignment: flex-col-reverse items-center gap-6
