@@ -179,11 +179,11 @@ export const Header = ({
         <div className={`${sectionClasses} hidden md:block h-screen fixed z-40 top-0 left-0 right-0`}>
           <div style={backgroundStyles} className={`${backgroundClasses} ${background} transition duration-400 absolute w-full h-screen -z-1`}></div>
           <div className={`w-full md:p-2 ${navOpen ? '' : 'bg-white' }`}>
-          <Logo className={`${navOpen ? 'hidden' : '' } absolute top-4 left-4`} />
+          <Logo className={`absolute top-5 left-4`} />
             <div className={`absolute top-3 -right-2 py-1 pl-2 pr-6 rounded ${nav?.navBackgroundColor}`} onClick={() => setNavOpen(!navOpen)}>
               <Burger color="black" isOpen={navOpen}  />
             </div>
-            <ul style={navStyles} className={`${navClasses} ${nav?.navTypeStyle} flex-grow hidden md:block mt-12`}>
+            <ul style={navStyles} className={`${navClasses} ${nav?.navTypeStyle} flex-grow hidden md:block md:mx-4 mt-12`}>
 
               {pageJumps(blocks)?.map(function (item, index) {
                 return (
