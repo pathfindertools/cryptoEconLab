@@ -585,7 +585,10 @@ blocks:
     _template: feature
 backgroundColor: white
 meta:
-  title: PL Network Events
-  description: A listing of all PL Network events
+  title: CryptoEconLab
+  description: >-
+    CryptoEconLab is a global hub for cryptoeconomic research, exploring big
+    ideas in incentive, token and mechanism design.
+  ogImage: /uploads/cel-social-sharing-img.jpg
 ---
 
