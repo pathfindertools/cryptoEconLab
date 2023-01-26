@@ -410,7 +410,7 @@ blocks:
       buttons: ''
       button: ''
       cardWrap: max-w-4xl mx-auto
-      card: border rounded-xl border-gray-dark flex items-center px-10 py-12 mb-12
+      card: border rounded-xl border-gray-dark flex items-center px-6 py-6 mb-12
       cardImageWrap: >-
         flex flex-row-reverse sm:flex-col-reverse w-1/2 justify-between
         items-center sm:items-start px-12 sm:pl-0 my-8 sm:flex-wrap
@@ -438,35 +438,35 @@ blocks:
     body: ''
     items:
       - image:
-          src: /uploads/arrow_line.svg
+          src: /uploads/arrow.svg
         headline: Researchers
         subhead: ''
         text: >
           Conduct token research, create reports, and form plans to tackle
           cryptoeconomic problems
       - image:
-          src: /uploads/arrow_line.svg
+          src: /uploads/arrow.svg
         headline: Operators
         subhead: ''
         text: >
           Define system requirements, goals, mechanisms and policies to seize
           market opportunities and achieve sustainable growth
       - image:
-          src: /uploads/arrow_line.svg
+          src: /uploads/arrow.svg
         headline: Investors
         subhead: ''
         text: >
           Visualizations, embeddable charts and diagrams to review
           cryptoeconomic analysis, valuation analysis, due diligence
       - image:
-          src: /uploads/arrow_line.svg
+          src: /uploads/arrow.svg
         headline: Developers
         text: >
           Simplify engineering workflow for problem framing, experiment
           planning, model coding, simulation analysis, documentation, and
           results sharing
       - image:
-          src: /uploads/arrow_line.svg
+          src: /uploads/arrow.svg
         headline: Policymakers
         text: |
           Advise policy on tokeneconomic frameworks
