@@ -566,7 +566,7 @@ blocks:
     body: >+
       <SocialLinks linkedin="https://www.linkedin.com/company/cryptoeconlab/"
       twitter="https://mobile.twitter.com/cryptoeconlab" iconSize="default"
-      email="mike.mccoy@protocol.ai"
+      email="cel@protocol.ai"
       youtube="https://www.youtube.com/@cryptoeconlabvideos/videos" />
 
     navigationLabel: Contact
@@ -579,5 +579,6 @@ meta:
     ideas in incentive, token and mechanism design.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
