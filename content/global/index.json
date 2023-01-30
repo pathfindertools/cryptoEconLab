@@ -52,19 +52,7 @@
       "label": "",
       "headline": "",
       "subhead": "",
-      "body": "![](</uploads/CEL-Full-Primary-Black-NoFill (2).svg>)\n",
-      "items": [
-        {
-          "headline": "Company",
-          "subhead": "",
-          "body": "* [Protocol Labs](https://protocol.ai/ \"Protocol Labs\")\n* [Protocol Labs Research](https://research.protocol.ai/ \"Protocol Labs Research\")\n* [Filecoin](https://filecoin.io/ \"Filecoin\")\n"
-        },
-        {
-          "headline": "Social",
-          "subhead": "",
-          "body": "* [Twitter](https://mobile.twitter.com/cryptoeconlab \"Twitter\")\n* [LinkedIn](https://www.linkedin.com/company/cryptoeconlab/ \"LinkedIn\")\n* [YouTube](https://www.youtube.com/c/ProtocolLabs \"YouTube\")\n"
-        }
-      ],
+      "body": "![](</uploads/CEL-Full-Primary-Black-NoFill (2).svg> \"\")\n",
       "_template": "cards"
     }
   ]
