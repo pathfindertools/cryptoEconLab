@@ -563,11 +563,12 @@ blocks:
           yOffset: '76'
     headline: Contact Us
     subhead: ''
-    body: >
+    body: >+
       <SocialLinks linkedin="https://www.linkedin.com/company/cryptoeconlab/"
       twitter="https://mobile.twitter.com/cryptoeconlab" iconSize="default"
       email="mike.mccoy@protocol.ai"
-      youtube="https://www.youtube.com/c/ProtocolLabs" />
+      youtube="https://www.youtube.com/@cryptoeconlabvideos/videos" />
+
     navigationLabel: Contact
     _template: feature
 backgroundColor: white
@@ -578,4 +579,5 @@ meta:
     ideas in incentive, token and mechanism design.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
