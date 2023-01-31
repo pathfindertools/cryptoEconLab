@@ -28,7 +28,7 @@ blocks:
       and maintain robust incentives and tokenomics.
     subhead: What We Do
     body: >
-      We are R\&D cryptoeconomics lab operating at the unique intersection of
+      We are an R\&D cryptoeconomics lab operating at the unique intersection of
       blockchain technology, computer science, network science, statistics,
       economics, and systems engineering.
 
@@ -84,7 +84,7 @@ blocks:
     label: ''
     headline: Who We Are
     subhead: >-
-      CryptoEconLab is split into two core groups developing projects that have
+      CryptoEconLab is split in two core functions developing projects that have
       a positive impact on the global economy:
     body: ''
     items:
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
