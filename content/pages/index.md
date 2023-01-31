@@ -383,7 +383,7 @@ blocks:
           twitter="" iconSize="small" />
 
 
-          ##### ZX Zhang
+          ##### ZX Zhang, MS
 
 
           ConsenSys, Ethereum Foundation, Bridgewater Associates
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
