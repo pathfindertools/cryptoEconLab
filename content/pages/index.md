@@ -241,7 +241,7 @@ blocks:
       We combine the expertise of economics and network design with
       crypto-native primitives at scale. Our team has in depth knowledge and
       global representation across the Americas, EMEA and APAC
-    body: "##### **Join Us! We're Hiring:**\n\n[\U0001F4DD Apply Here](https://boards.greenhouse.io/protocollabs \"Apply Here\") [\U0001F46A Team Member Info](https://cryptoeconlab.io/732dd435a71c471a900a5ea9aff85c1b \"Team Member Info\")\n"
+    body: "##### **Join Us! We're Hiring:**\n\n[\U0001F4DD Apply Here](https://boards.greenhouse.io/protocollabs \"Apply Here\")\n"
     items:
       - image:
           src: /uploads/axel-cortes-cubero.jpg
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
