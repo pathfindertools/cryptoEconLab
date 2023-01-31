@@ -322,7 +322,7 @@ blocks:
           twitter="" iconSize="small" />
 
 
-          ##### Maria Silva
+          ##### Maria Silva, PhD
 
 
           Elliptic, Feedzai
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
