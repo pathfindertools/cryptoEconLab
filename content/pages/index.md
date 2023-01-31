@@ -28,13 +28,19 @@ blocks:
       and maintain robust incentives and tokenomics.
     subhead: What We Do
     body: >
-      R\&D cryptoeconomics lab operating at the unique intersection of
+      We are R\&D cryptoeconomics lab operating at the unique intersection of
       blockchain technology, computer science, network science, statistics,
-      economics, and systems engineering. The team specializes in incentive
-      mechanism design for Layer 1 (L1) protocols, smart contracts,
-      decentralized applications (Dapps) design, and token governance. Our work
-      enables the creation of new financial markets and the development of novel
-      digital asset products.
+      economics, and systems engineering.
+
+
+      Our specialties include token design, mechanism/incentive design, economic
+      audits, network analytics, and protocol governance.\
+
+      \
+
+      This team enables the creation of new financial markets, the development
+      of novel digital asset products, and the exploration of new investment
+      opportunities.
 
 
       **In an increasingly networked and open world, cryptoeconomics will play
@@ -578,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
