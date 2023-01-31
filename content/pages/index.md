@@ -358,7 +358,7 @@ blocks:
           twitter="https://twitter.com/MellanTom" iconSize="small" />
 
 
-          ##### Tom Mellan
+          ##### Tom Mellan, PhD
 
 
           Imperial College London, Univ. College London
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
