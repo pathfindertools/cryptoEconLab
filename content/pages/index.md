@@ -253,7 +253,7 @@ blocks:
           twitter="" iconSize="small" email="" />
 
 
-          ##### Axel Cortés Cubero
+          ##### Axel Cortés Cubero, PhD
 
 
           Univ. de Puerto Rico, UvA, Ultrecht Univ.
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
