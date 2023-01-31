@@ -38,8 +38,8 @@ blocks:
 
       \
 
-      This team enables the creation of new financial markets, the development
-      of novel digital asset products, and the exploration of new investment
+      We enable the creation of new financial markets, the development of novel
+      digital asset products, and the exploration of new investment
       opportunities.
 
 
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
