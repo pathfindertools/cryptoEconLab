@@ -309,7 +309,7 @@ blocks:
           twitter="" iconSize="small" />
 
 
-          ##### Kiran Karra
+          ##### Kiran Karra, PhD
 
 
           Johns Hopkins Univ, Virginia Tech, Northrop Grumman
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
