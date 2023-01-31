@@ -361,7 +361,7 @@ blocks:
           ##### Tom Mellan, PhD
 
 
-          Imperial College London, Univ. College London
+          Imperial College London, Univ College London
       - image:
           src: /uploads/vik-kalghatgi.jpg
           alt: Vik Kalghatgi
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
