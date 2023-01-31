@@ -563,22 +563,22 @@ blocks:
           yOffset: '76'
     headline: Contact Us
     subhead: ''
-    body: >+
+    body: >
       <SocialLinks linkedin="https://www.linkedin.com/company/cryptoeconlab/"
       twitter="https://mobile.twitter.com/cryptoeconlab" iconSize="default"
       email="cel@protocol.ai"
       youtube="https://www.youtube.com/@cryptoeconlabvideos/videos" />
-
     navigationLabel: Contact
     _template: feature
 backgroundColor: white
 meta:
   title: CryptoEconLab
   description: >-
-    CryptoEconLab is a global hub for cryptoeconomic research, exploring big
-    ideas in incentive, token and mechanism design.
+    CryptoEconLab offers cryptoeconomic services that enable teams to design and
+    maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
