@@ -24,8 +24,8 @@ blocks:
       position: object-left-bottom
     label: ''
     headline: >-
-      CryptoEconLab is a global hub for cryptoeconomic research, exploring big
-      ideas in incentive, token and mechanism design.
+      CryptoEconLab offers cryptoeconomic services that enable teams to design
+      and maintain robust incentives and tokenomics.
     subhead: What We Do
     body: >
       R\&D cryptoeconomics lab operating at the unique intersection of
@@ -578,6 +578,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
