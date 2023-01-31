@@ -256,7 +256,7 @@ blocks:
           ##### Axel Cortés Cubero, PhD
 
 
-          Univ. de Puerto Rico, UvAmsterdam, CUNY.
+          Univ de Puerto Rico, UvAmsterdam, CUNY
       - image:
           src: /uploads/dave-costenaro.jpg
           alt: Dave Costenaro
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
