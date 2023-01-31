@@ -298,8 +298,8 @@ blocks:
           ##### JP Madrigal Cianci, PhD
 
 
-          University of New Mexico, École Polytechnique Fédérale de Lausanne,
-          Advanced Blockchain
+          Univ of New Mexico, École Polytechnique Fédérale de Lausanne, Advanced
+          Blockchain
       - image:
           src: /uploads/kiran-karra.jpg
           alt: Kiran Karra
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
