@@ -153,7 +153,7 @@ blocks:
           and tune parameters based on economic goals
       - image:
           src: /uploads/graph.svg
-        headline: Change Proposal Analysis
+        headline: Protocol Impact Analysis
         subhead: ''
         text: >
           Technical changes to protocols lead to impacts on the economics of the
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
