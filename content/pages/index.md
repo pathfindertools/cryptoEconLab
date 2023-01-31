@@ -100,7 +100,7 @@ blocks:
           clients in building their crypto-native projects.
       - image:
           src: /uploads/filecoin-logo.svg
-        headline: CryptoEconLab Filecoin Core
+        headline: Filecoin Core
         subhead: ''
         text: >
           Filecoin Core continues our longstanding development of the Filecoin
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
