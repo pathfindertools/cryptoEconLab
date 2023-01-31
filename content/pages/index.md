@@ -91,7 +91,7 @@ blocks:
       - image:
           src: /uploads/CEL-Symbol-Black-NoFill.svg
           alt: CryptoEconLab icon
-        headline: CryptoEconLab Advisory
+        headline: Advisory Services
         subhead: ''
         text: >
           The Advisory team leverages established economic knowledge to develop
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
