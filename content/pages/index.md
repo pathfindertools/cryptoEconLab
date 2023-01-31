@@ -267,7 +267,7 @@ blocks:
           twitter="https://twitter.com/DaveCostenaro" iconSize="small" />
 
 
-          ##### Dave Costenaro
+          ##### Dave Costenaro, MS, MBA
 
 
           Boeing, Capacity, Applied Energy Group
@@ -584,6 +584,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
