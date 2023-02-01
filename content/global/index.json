@@ -23,7 +23,7 @@
       "style": {
         "alignment": "flex-row-reverse items-center gap-6 sm:flex-col-reverse sm:items-center sm:gap-12",
         "padding": "pt-20 pb-20 pr-20 pl-20 sm:pt-20 sm:pb-20 sm:pr-5 sm:pl-5",
-        "featureContent": "w-1/2 min-h-0 text-left sm:w-full sm:min-h-0 sm:text-left",
+        "featureContent": "w-2/5 min-h-0 text-left sm:w-full sm:min-h-0 sm:text-left",
         "labelStyles": "text-black undefined undefined",
         "headlineStyles": "text-black undefined undefined",
         "subheadStyles": "text-black undefined undefined",
