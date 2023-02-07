@@ -258,34 +258,6 @@ blocks:
 
           Univ de Puerto Rico, UvAmsterdam, CUNY
       - image:
-          src: /uploads/dave-costenaro.jpg
-          alt: Dave Costenaro
-        headline: ''
-        subhead: ''
-        body: >
-          <SocialLinks linkedin="https://www.linkedin.com/in/davidcostenaro/"
-          twitter="https://twitter.com/DaveCostenaro" iconSize="small" />
-
-
-          ##### Dave Costenaro, MS, MBA
-
-
-          Boeing, Capacity, Applied Energy Group
-      - image:
-          src: /uploads/echan-chordia.jpg
-          alt: Eshan Chordia
-        headline: ''
-        subhead: ''
-        body: >
-          <SocialLinks linkedin="https://www.linkedin.com/in/echordia/"
-          twitter="https://twitter.com/eshanchordia" iconSize="small" />
-
-
-          ##### Eshan Chordia
-
-
-          Zesty.ai, Nootry Founder / CEO, Carnegie Mellon
-      - image:
           src: /uploads/jp-madrigal-cianci.jpg
           alt: JP Madrigal Cianci
         body: >
@@ -327,7 +299,7 @@ blocks:
 
           Elliptic, Feedzai
       - image:
-          src: /uploads/mike-mccoy.jpg
+          src: /uploads/Screen Shot 2023-02-07 at 9.33.40 AM.png
           alt: Mike McCoy
         body: >
           <SocialLinks linkedin="https://www.linkedin.com/in/mikemccoyphl/"
@@ -584,6 +556,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
