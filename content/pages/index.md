@@ -273,7 +273,7 @@ blocks:
           Univ of New Mexico, École Polytechnique Fédérale de Lausanne, Advanced
           Blockchain
       - image:
-          src: /uploads/kiran-karra.jpg
+          src: /uploads/Kiran-2.png
           alt: Kiran Karra
         body: >
           <SocialLinks
@@ -556,6 +556,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
