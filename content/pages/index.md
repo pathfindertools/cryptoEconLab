@@ -258,7 +258,7 @@ blocks:
 
           Univ de Puerto Rico, UvAmsterdam, CUNY
       - image:
-          src: /uploads/jp-madrigal-cianci.jpg
+          src: /uploads/Screen Shot 2023-02-21 at 8.19.18 AM.png
           alt: JP Madrigal Cianci
         body: >
           <SocialLinks
@@ -556,6 +556,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
