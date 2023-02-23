@@ -126,7 +126,7 @@ export const Header = ({
     const hasLogoImage = globalData.logo?.image;
     if (hasLogoImage) {
       return (
-        <img className={props.className} src={globalData.logo?.image} width={globalData.logo?.imageWidth} height={globalData.logo?.imageHeight} style={logoStyles} alt={globalData.logo?.logoType || "logo"} />
+        <a href="/"><img className={props.className} src={globalData.logo?.image} width={globalData.logo?.imageWidth} height={globalData.logo?.imageHeight} style={logoStyles} alt={globalData.logo?.logoType || "logo"} /></a>
       );
     }
     return (

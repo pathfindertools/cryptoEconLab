@@ -275,6 +275,15 @@ export const Layout = ({ rawData, data = layoutData, children }) => {
         </div>
         <footer>
           <Blocks blocks={global.blocks} />
+          <div className="bg-black text-primary">
+            <div className="max-w-desktop-full mx-auto sm:w-full pt-4 px-4 sm:px-6 pb-6 flex flex-row-reverse justify-between sm:flex-col">
+            <ul className="justify-flex-end flex sm:flex-col gap-6 sm:gap-2 sm:w-full sm:mb-6">
+              <li><a className="mg-paragraph-small" href="/terms-of-use">Terms of Use</a></li>
+              <li><a className="mg-paragraph-small" href="/privacy-policy">Privacy Policy</a></li>
+            </ul>
+            </div>
+
+          </div>
         </footer>
       </div>
     </>
