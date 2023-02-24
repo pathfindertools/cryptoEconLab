@@ -91,14 +91,6 @@ blocks:
           solutions, beginning with identifying key objectives and ending with
           mathematical modelling, to address specific problems faced by our
           clients in building their crypto-native projects.
-      - image:
-          src: /uploads/filecoin-logo.svg
-        headline: Filecoin Core
-        subhead: ''
-        text: >
-          Filecoin Core continues our longstanding development of the Filecoin
-          economy by developing models, proposing economic solutions and
-          sustaining the growth of teams in the Protocol Labs Network.
     navigationLabel: Who We Are
     _template: tailwindCards
   - tailwind:
@@ -549,6 +541,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
