@@ -76,7 +76,9 @@ blocks:
       We work with various teams and organisations to develop incentives and
       tokenomics capable of supporting long-term growth.
     body: |+
-      ![](</uploads/CELA services.svg>)
+
+
+      ![](/uploads/services.svg)
 
     items:
       - image:
@@ -423,6 +425,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
