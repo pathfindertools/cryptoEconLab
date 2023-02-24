@@ -11,8 +11,8 @@ blocks:
         sm:text-left flex flex-wrap
       label: ''
       headline: >-
-        text-black mg-heading-1 mb-40 md:mb-24 sm:text-black sm:mg-heading-1
-        sm:mb-14 w-full
+        text-black mg-heading-1 mb-24 sm:text-black sm:mg-heading-1 sm:mb-14
+        w-full
       subhead: 'text-gray mg-heading-2 mb-7 w-1/5 md:w-full md:pr-40'
       text: 'text-black mg-paragraph pl-10 md:pl-0 mb-0 w-4/5 md:w-full'
       buttons: ''
@@ -117,9 +117,9 @@ blocks:
       padding: 'pt-52 pb-14 pr-20 pl-20 sm:pt-52 sm:pb-14 sm:pr-5 sm:pl-5'
       featureContent: 'w-3/4 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-center'
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black mg-heading-2 mb-10
-      subheadStyles: text-black mg-paragraph mb-12
-      textStyles: text-black mg-heading-4 mb-16
+      headlineStyles: 'text-black mg-heading-2 '
+      subheadStyles: 'text-black mg-paragraph '
+      textStyles: 'text-black mg-heading-4 '
     cardStyle:
       fillStyles: ' opacity-100'
       grid: >-
@@ -434,6 +434,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
