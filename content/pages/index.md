@@ -39,62 +39,6 @@ blocks:
       building a better future.**
     _template: tailwindFeature
   - tailwind:
-      section: pt-52 pb-20 pr-4 pl-4 border-gray-dark
-      wrap: ''
-      imageWrap: ''
-      image: ''
-      contentWrap: 'w-2/3 max-w-4xl mx-auto sm:w-full'
-      content: 'min-h-0 text-center sm:w-full sm:min-h-0'
-      label: ''
-      headline: mg-heading-2 mb-6
-      subhead: mg-paragraph mb-20
-      text: mg-paragraph
-      buttons: ''
-      button: ''
-      cardWrap: max-w-5xl mx-auto flex align-center justify-center flex-wrap
-      card: 'mb-4 w-1/5 lg:w-1/2  p-4 sm:p-2 h-32 min-h-full'
-      cardContentWrap: h-full whitespace-wrap
-      cardContent: ''
-      cardButtons: >-
-        border border-gray-dark rounded-lg p-2 h-full flex flex-col
-        justify-center
-      cardButton: ' text-accent2 mg-paragraph-small text-center'
-    background:
-      fillStyles: bg-white opacity-100
-      ornaments:
-        - src: /uploads/resources.svg
-          alignment: top
-          width: '85.5'
-          height: '70'
-          yOffset: '100'
-    label: ''
-    headline: Resources
-    subhead: >-
-      We are passionate about giving back to the community. All our research,
-      publications, and talks are available online
-    body: ''
-    items:
-      - headline: ''
-        subhead: ''
-        text: ''
-        link: 'https://hackmd.io/@cryptoecon/Bkit3d6ej/%2FvTAGfLTITEmokbPAhhKUaA'
-        buttonLabel: Technical Reports
-      - text: ''
-        link: 'https://medium.com/cryptoeconlab'
-        buttonLabel: Blog
-      - text: ''
-        link: 'https://github.com/protocol/CryptoEconLab'
-        buttonLabel: GitHub Repo
-      - text: ''
-        link: 'https://www.cryptoeconday.io/videos'
-        buttonLabel: Presentations
-      - text: ''
-        link: >-
-          https://pl-strflt.notion.site/CryptoEconLab-reading-list-79100f7b0f9b427db628c5f53906929c
-        buttonLabel: Recommended Reading
-    navigationLabel: Resources
-    _template: tailwindCards
-  - tailwind:
       section: 'pt-52 pb-10 pr-6 pl-6 sm:pb-6'
       wrap: ''
       imageWrap: ''
@@ -326,6 +270,62 @@ blocks:
           ConsenSys, Ethereum Foundation, Bridgewater Associates
     navigationLabel: Team
     _template: cards
+  - tailwind:
+      section: pt-52 pb-20 pr-4 pl-4 border-gray-dark
+      wrap: ''
+      imageWrap: ''
+      image: ''
+      contentWrap: 'w-2/3 max-w-4xl mx-auto sm:w-full'
+      content: 'min-h-0 text-center sm:w-full sm:min-h-0'
+      label: ''
+      headline: mg-heading-2 mb-6
+      subhead: mg-paragraph mb-20
+      text: mg-paragraph
+      buttons: ''
+      button: ''
+      cardWrap: max-w-5xl mx-auto flex align-center justify-center flex-wrap
+      card: 'mb-4 w-1/5 lg:w-1/2  p-4 sm:p-2 h-32 min-h-full'
+      cardContentWrap: h-full whitespace-wrap
+      cardContent: ''
+      cardButtons: >-
+        border border-gray-dark rounded-lg p-2 h-full flex flex-col
+        justify-center
+      cardButton: ' text-accent2 mg-paragraph-small text-center'
+    background:
+      fillStyles: bg-white opacity-100
+      ornaments:
+        - src: /uploads/resources.svg
+          alignment: top
+          width: '85.5'
+          height: '70'
+          yOffset: '100'
+    label: ''
+    headline: Resources
+    subhead: >-
+      We are passionate about giving back to the community. All our research,
+      publications, and talks are available online
+    body: ''
+    items:
+      - headline: ''
+        subhead: ''
+        text: ''
+        link: 'https://hackmd.io/@cryptoecon/Bkit3d6ej/%2FvTAGfLTITEmokbPAhhKUaA'
+        buttonLabel: Technical Reports
+      - text: ''
+        link: 'https://medium.com/cryptoeconlab'
+        buttonLabel: Blog
+      - text: ''
+        link: 'https://github.com/protocol/CryptoEconLab'
+        buttonLabel: GitHub Repo
+      - text: ''
+        link: 'https://www.cryptoeconday.io/videos'
+        buttonLabel: Presentations
+      - text: ''
+        link: >-
+          https://pl-strflt.notion.site/CryptoEconLab-reading-list-79100f7b0f9b427db628c5f53906929c
+        buttonLabel: Recommended Reading
+    navigationLabel: Resources
+    _template: tailwindCards
   - style:
       alignment: flex-col-reverse items-start gap-6
       padding: pt-20 pb-20 pr-20 pl-20
@@ -416,6 +416,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
