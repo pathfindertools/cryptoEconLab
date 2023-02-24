@@ -279,9 +279,7 @@ blocks:
       card: 'mb-4 w-1/5 lg:w-1/2  p-4 sm:p-2 h-32 min-h-full'
       cardContentWrap: h-full whitespace-wrap
       cardContent: ''
-      cardButtons: >-
-        border border-gray-dark rounded-lg p-2 h-full flex flex-col
-        justify-center
+      cardButtons: border-2 rounded-lg p-2 h-full flex flex-col justify-center
       cardButton: ' text-accent2 text-center'
     background:
       fillStyles: ' opacity-100'
@@ -425,6 +423,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
