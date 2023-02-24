@@ -292,7 +292,9 @@ blocks:
         justify-center
       cardButton: ' text-accent2 mg-paragraph-small text-center'
     background:
-      fillStyles: bg-white opacity-100
+      fillStyles: ' opacity-100'
+      src: ''
+      position: object-center
       ornaments:
         - src: /uploads/resources.svg
           alignment: top
@@ -434,6 +436,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
