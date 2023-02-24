@@ -82,6 +82,8 @@ blocks:
     body: ''
     items:
       - image:
+          src: /uploads/filecoin-logo.svg
+      - image:
           src: /uploads/CEL-Symbol-Black-NoFill.svg
           alt: CryptoEconLab icon
         headline: Advisory Services
@@ -541,6 +543,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
