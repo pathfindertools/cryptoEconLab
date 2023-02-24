@@ -80,7 +80,7 @@ blocks:
       We work with various teams and organisations to develop incentives and
       tokenomics capable of supporting long-term growth.
     body: |+
-      How do we do this?  We support teams throughout their entire journey:
+      We support teams throughout their entire journey:
 
       * Token Design
       * Mechanism Design
@@ -106,15 +106,15 @@ blocks:
           or our [reviews of improvement
           proposals](https://hackmd.io/@cryptoecon/Bkit3d6ej/%2F7BE_wA7iT_GtBziRrfCeXQ).
       - image:
-          src: /uploads/CEL-Symbol-Black-NoFill.svg
+          src: /uploads/blob.svg
           alt: CryptoEconLab icon
-        headline: Advisory Services
+        headline: ''
         subhead: ''
         text: >
-          The Advisory team leverages established economic knowledge to develop
-          solutions, beginning with identifying key objectives and ending with
-          mathematical modelling, to address specific problems faced by our
-          clients in building their crypto-native projects.
+          We also support other projects design and audit their economics. Learn
+          about how we helped Saturn Network design their incentives mechanisms
+          in our [in-depth technical
+          report](https://hackmd.io/@cryptoecon/saturn-aliens/%2FYOuJDLUUQieYfpEcAYSCfQ).
     navigationLabel: Who We Are
     _template: tailwindCards
   - tailwind:
@@ -565,6 +565,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
