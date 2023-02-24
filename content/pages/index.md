@@ -1,9 +1,7 @@
 ---
 blocks:
   - tailwind:
-      section: >-
-        flex-col-reverse items-center pt-48 pb-20 pr-6 pl-6 border-b-1
-        border-gray-dark
+      section: flex-col-reverse items-center pt-48 pb-20 pr-6 pl-6 border-gray-dark
       wrap: ''
       imageWrap: ''
       image: ''
@@ -79,7 +77,7 @@ blocks:
     subhead: >-
       We work with various teams and organisations to develop incentives and
       tokenomics capable of supporting long-term growth.
-    body: |+
+    body: |
       We support teams throughout their entire journey:
 
       * Token Design
@@ -88,7 +86,6 @@ blocks:
       * Economic Audits
       * Network Analytics
       * Protocol Governance
-
     items:
       - image:
           src: /uploads/filecoin-logo.svg
@@ -391,6 +388,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
