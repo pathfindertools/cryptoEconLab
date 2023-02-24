@@ -269,7 +269,7 @@ blocks:
     navigationLabel: Team
     _template: cards
   - tailwind:
-      section: pt-52 pb-20 pr-4 pl-4 border-gray-dark
+      section: pt-52 pb-20 pr-4 pl-4
       wrap: ''
       imageWrap: ''
       image: ''
@@ -434,6 +434,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
