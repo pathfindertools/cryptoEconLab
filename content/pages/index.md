@@ -368,8 +368,11 @@ blocks:
         body: |+
           ![](/uploads/CryptoEconDay_2.png)
 
-      - headline: Headline
-        subhead: Subhead
+      - headline: Demos
+        subhead: ''
+        body: |+
+          ![](/uploads/CryptoEconDay_3.png)
+
     _template: cards
   - style:
       alignment: 'flex-col items-center '
@@ -433,6 +436,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
