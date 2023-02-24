@@ -274,82 +274,6 @@ blocks:
     navigationLabel: Team
     _template: cards
   - tailwind:
-      section: pt-52 pb-20 pr-6 pl-6 border-t-1 border-b-1 border-gray-dark
-      wrap: ''
-      imageWrap: ''
-      image: ''
-      contentWrap: 'w-2/3 max-w-4xl mx-auto sm:w-full'
-      content: 'min-h-0 text-center sm:w-full sm:min-h-0'
-      label: ''
-      headline: mg-heading-2 mb-6
-      subhead: mg-paragraph mb-20
-      text: mg-paragraph
-      buttons: ''
-      button: ''
-      cardWrap: max-w-4xl mx-auto
-      card: border rounded-xl border-gray-dark flex items-center px-6 py-6 mb-12
-      cardImageWrap: >-
-        flex flex-row-reverse sm:flex-col-reverse w-1/2 justify-between
-        items-center sm:items-start px-12 sm:pl-0 my-8 sm:flex-wrap
-      cardImage: 'ml-6 sm:mt-4 sm:ml-0'
-      cardContentWrap: w-1/2 pl-6
-      cardContent: ''
-      cardHeadline: mg-paragraph text-center
-      cardText: mg-paragraph-small text-left
-    background:
-      fillStyles: from-accent1 to-white bg-gradient-to-b opacity-100
-      ornaments:
-        - src: /uploads/partners.svg
-          alignment: top
-          width: '126'
-          height: '80'
-          xOffset: ''
-          yOffset: '100'
-    label: ''
-    headline: Partners
-    subhead: >-
-      Our focus is to integrate research with advanced mathematical and
-      computational engineering to deliver key results for our partners
-      including: researchers, operators, investors, developers and policymakers
-      at for-profit and nonprofit organizations.
-    body: ''
-    items:
-      - image:
-          src: /uploads/arrow.svg
-        headline: Researchers
-        subhead: ''
-        text: >
-          Conduct token research, create reports, and form plans to tackle
-          cryptoeconomic problems
-      - image:
-          src: /uploads/arrow.svg
-        headline: Operators
-        subhead: ''
-        text: >
-          Define system requirements, goals, mechanisms and policies to seize
-          market opportunities and achieve sustainable growth
-      - image:
-          src: /uploads/arrow.svg
-        headline: Investors
-        subhead: ''
-        text: >
-          Visualizations, embeddable charts and diagrams to review
-          cryptoeconomic analysis, valuation analysis, due diligence
-      - image:
-          src: /uploads/arrow.svg
-        headline: Developers
-        text: >
-          Simplify engineering workflow for problem framing, experiment
-          planning, model coding, simulation analysis, documentation, and
-          results sharing
-      - image:
-          src: /uploads/arrow.svg
-        headline: Policymakers
-        text: |
-          Advise policy on tokeneconomic frameworks
-    navigationLabel: Partners
-    _template: tailwindCards
-  - tailwind:
       section: pt-52 pb-20 pr-4 pl-4 border-b-1 border-gray-dark
       wrap: ''
       imageWrap: ''
@@ -468,6 +392,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
