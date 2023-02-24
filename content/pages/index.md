@@ -351,11 +351,18 @@ blocks:
       buttonLayout: undefined
       buttonWidth: undefined
     label: ''
-    headline: Headline
-    subhead: Subhead
+    headline: CryptoEconDay
+    subhead: >-
+      CryptoEconDay is a quarterly summit bringing together Web3 researchers and
+      practitioners. We share findings and lessons learned and we try to answer
+      some of the most challenging questions around the topic of
+      cryptoeconomics.
     items:
-      - headline: Headline
-        subhead: Subhead
+      - headline: Workshops
+        subhead: ''
+        body: |+
+          ![](/uploads/CryptoEconDay_1.jpg)
+
       - headline: Headline
         subhead: Subhead
       - headline: Headline
@@ -423,6 +430,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
