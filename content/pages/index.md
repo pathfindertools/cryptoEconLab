@@ -315,14 +315,14 @@ blocks:
         link: 'https://hackmd.io/@cryptoecon/Bkit3d6ej/%2FvTAGfLTITEmokbPAhhKUaA'
         buttonLabel: Technical Reports
       - text: ''
+        link: 'https://medium.com/cryptoeconlab'
+        buttonLabel: Blog
+      - text: ''
         link: 'https://github.com/protocol/CryptoEconLab'
         buttonLabel: GitHub Repo
       - text: ''
         link: 'https://www.cryptoeconday.io/videos'
         buttonLabel: Presentations
-      - text: ''
-        link: 'https://medium.com/cryptoeconlab'
-        buttonLabel: Blog
       - text: ''
         link: >-
           https://pl-strflt.notion.site/CryptoEconLab-reading-list-79100f7b0f9b427db628c5f53906929c
@@ -390,6 +390,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
