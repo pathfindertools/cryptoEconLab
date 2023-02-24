@@ -47,7 +47,7 @@ blocks:
       content: 'min-h-0 text-center sm:w-full sm:min-h-0'
       label: ''
       headline: 'text-black mg-heading-2 mb-6 sm:text-black sm:mg-heading-1 w-full'
-      subhead: text-black mg-heading-5 mb-12
+      subhead: text-black mg-heading-5 mb-5
       text: 'text-black mg-paragraph md:pl-0 mb-5 md:w-full'
       buttons: ''
       button: ''
@@ -434,6 +434,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
