@@ -53,7 +53,7 @@ blocks:
       button: ''
       cardWrap: max-w-4xl mx-auto
       card: 'shadow-lg px-10 py-12 sm:p-6 mb-12 '
-      cardImageWrap: max-w-4xl mx-auto
+      cardImageWrap: ''
       cardImage: 'mr-3 sm:mr-0 sm:mb-5'
       cardContentWrap: h-full whitespace-wrap
       cardContent: ''
@@ -434,6 +434,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
