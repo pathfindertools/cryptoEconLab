@@ -324,7 +324,8 @@ blocks:
         link: 'https://medium.com/cryptoeconlab'
         buttonLabel: Blog
       - text: ''
-        link: 'https://cryptoeconlab.io/79100f7b0f9b427db628c5f53906929c'
+        link: >-
+          https://pl-strflt.notion.site/CryptoEconLab-reading-list-79100f7b0f9b427db628c5f53906929c
         buttonLabel: Recommended Reading
     navigationLabel: Resources
     _template: tailwindCards
@@ -389,6 +390,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
