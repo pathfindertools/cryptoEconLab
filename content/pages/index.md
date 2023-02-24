@@ -51,15 +51,13 @@ blocks:
       text: 'text-black mg-paragraph md:pl-0 mb-5 md:w-full'
       buttons: ''
       button: ''
-      cardWrap: p-10 grid grid-cols-1
+      cardWrap: max-w-4xl mx-auto
       card: 'shadow-lg px-10 py-12 sm:p-6 mb-12 '
-      cardImageWrap: >-
-        flex justify-center items-center mb-8 sm:mb-6 sm:flex-column
-        sm:flex-wrap
+      cardImageWrap: max-w-4xl mx-auto
       cardImage: 'mr-3 sm:mr-0 sm:mb-5'
-      cardContentWrap: ''
+      cardContentWrap: h-full whitespace-wrap
       cardContent: ''
-      cardHeadline: 'mg-heading-4 text-center sm:w-full'
+      cardHeadline: ''
       cardText: 'mg-paragraph sm:text-left'
     background:
       fillStyles: ' opacity-100'
@@ -436,6 +434,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
