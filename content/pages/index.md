@@ -392,21 +392,11 @@ blocks:
     background:
       fillStyles: ' opacity-100'
       position: ''
-      ornaments:
-        - src: /uploads/crypto-econ-day.svg
-          alignment: top
-          width: '72'
-          height: '80'
-          yOffset: '76'
-    headline: CryptoEconDay
-    subhead: >-
-      CryptoEconDay is a quarterly summit bringing together Web3 researchers and
-      practitioners. We share findings and lessons learned and we try to answer
-      some of the most challenging questions around the topic of
-      cryptoeconomics.
+    headline: ''
+    subhead: 800+ attendees | 50+ presentations in 2022 | 70+ institutions
     body: |
       [Learn More ](https://www.cryptoeconday.io/ "CryptoEconDay")
-    navigationLabel: CryptoEconDay
+    navigationLabel: ''
     _template: feature
   - style:
       alignment: 'flex-col-reverse items-center '
@@ -442,6 +432,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
