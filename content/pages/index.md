@@ -363,6 +363,7 @@ blocks:
       practitioners. We share findings and lessons learned and we try to answer
       some of the most challenging questions around the topic of
       cryptoeconomics.
+    body: ''
     items:
       - headline: Workshops
         subhead: ''
@@ -433,6 +434,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
