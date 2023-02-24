@@ -316,7 +316,7 @@ blocks:
         buttonLabel: Technical Reports
       - text: ''
         link: 'https://github.com/protocol/CryptoEconLab'
-        buttonLabel: GitHub Repos & Commits
+        buttonLabel: GitHub Repo
       - text: ''
         link: 'https://www.cryptoeconday.io/videos'
         buttonLabel: Presentations
