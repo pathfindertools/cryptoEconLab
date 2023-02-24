@@ -384,7 +384,7 @@ blocks:
     _template: cards
   - style:
       alignment: 'flex-col items-center '
-      padding: 'pt-44 pb-16 pr-10 pl-10 sm:pt-44 sm:pb-16 sm:pr-5 sm:pl-5'
+      padding: 'pt-2 pb-16 pr-10 pl-10 sm:pt-2 sm:pb-16 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
       featureContent: 'w-4/5 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-center'
       labelStyles: text-black undefined undefined
@@ -434,6 +434,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
