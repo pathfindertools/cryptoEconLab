@@ -379,6 +379,7 @@ blocks:
         body: |+
           ![](/uploads/CryptoEconDay_3.png)
 
+    navigationLabel: CryptoEconDay
     _template: cards
   - style:
       alignment: 'flex-col items-center '
@@ -432,6 +433,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
