@@ -142,7 +142,7 @@ blocks:
       buttonLayout: justify-start
       buttonWidth: w-auto
     background:
-      fillStyles: from-white to-accent1 bg-gradient-to-b opacity-100
+      fillStyles: ' opacity-100'
       ornaments:
         - src: /uploads/team.svg
           alignment: top
@@ -468,6 +468,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
