@@ -420,11 +420,10 @@ blocks:
 backgroundColor: white
 meta:
   title: CryptoEconLab
-  description: >-
-    CryptoEconLab offers cryptoeconomic services that enable teams to design and
-    maintain robust incentives & tokenomics.
-  ogImage: /uploads/cel-social-sharing-img.jpg
+  description: 'Design, research and modelling to enable robust incentives and tokenomics'
+  ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
