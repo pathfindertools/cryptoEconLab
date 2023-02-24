@@ -101,8 +101,8 @@ blocks:
         text: >
           We also support other projects design and audit their economics. Learn
           about how we helped Saturn Network design their incentives mechanisms
-          in our [in-depth technical
-          report](https://hackmd.io/@cryptoecon/saturn-aliens/%2FYOuJDLUUQieYfpEcAYSCfQ).
+          in our **[in-depth technical
+          report](https://hackmd.io/@cryptoecon/saturn-aliens/%2FYOuJDLUUQieYfpEcAYSCfQ)**.
     navigationLabel: What We Do
     _template: tailwindCards
   - style:
