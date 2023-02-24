@@ -322,7 +322,7 @@ blocks:
         buttonLabel: Presentations
       - text: ''
         link: 'https://medium.com/cryptoeconlab'
-        buttonLabel: CryptoEconLab Blog
+        buttonLabel: Blog
       - text: ''
         link: 'https://cryptoeconlab.io/79100f7b0f9b427db628c5f53906929c'
         buttonLabel: Recommended Reading
@@ -389,6 +389,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
