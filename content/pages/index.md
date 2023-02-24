@@ -326,6 +326,38 @@ blocks:
         buttonLabel: Recommended Reading
     navigationLabel: Resources
     _template: tailwindCards
+  - tailwind:
+      section: ''
+      wrap: ''
+      imageWrap: ''
+      image: ''
+      contentWrap: ''
+      content: ''
+      label: ''
+      headline: ''
+      subhead: ''
+      text: ''
+      buttons: ''
+      button: ''
+    label: ''
+    headline: This is the main headline
+    subhead: Here is a subhead
+    body: |
+      This is a rich text component you can add hyperlinks, etc.
+    items:
+      - headline: Here's Another Card
+        subhead: Card Subhead
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+      - headline: Here's Another Card
+        subhead: Card Subhead
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+      - headline: Here's Another Card
+        subhead: Card Subhead
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+    _template: tailwindCards
   - style:
       alignment: 'flex-col items-center '
       padding: 'pt-44 pb-16 pr-10 pl-10 sm:pt-44 sm:pb-16 sm:pr-5 sm:pl-5'
@@ -388,6 +420,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
