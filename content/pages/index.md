@@ -75,14 +75,9 @@ blocks:
     subhead: >-
       We work with various teams and organisations to develop incentives and
       tokenomics capable of supporting long-term growth.
-    body: |
-      * Token Design
-      * Mechanism Design
-      * Simulation and modelling
-      * Economic Audits
-      * Network Analytics
-      * Protocol Governance
-      * White papers
+    body: |+
+      ![](</uploads/CELA services.svg>)
+
     items:
       - image:
           src: /uploads/filecoin-logo.svg
@@ -430,6 +425,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
