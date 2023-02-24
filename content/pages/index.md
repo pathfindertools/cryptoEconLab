@@ -87,7 +87,7 @@ blocks:
           We play a big role in the Filecoin ecosystem by developing its
           **[tokenomics](https://medium.com/tldrfilecoin/filecoin-tokenomics-understanding-an-advancing-economy-ef319632ffa8)**
           and actively participating in its governance process. Check out our
-          **[Circulating supply
+          **[circulating supply
           model](https://github.com/protocol/filecoin-mecha-twin)**, our
           research on **[Filecoin’s gas
           economy](https://hackmd.io/@cryptoecon/Bkit3d6ej/%2FeJgfrnzBR8KB4OSJ3aDrOw)**
@@ -420,6 +420,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
