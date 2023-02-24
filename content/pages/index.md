@@ -75,7 +75,7 @@ blocks:
     subhead: >-
       We work with various teams and organisations to develop incentives and
       tokenomics capable of supporting long-term growth.
-    body: |+
+    body: |
       * Token Design
       * Mechanism Design
       * Simulation and modelling
@@ -83,7 +83,6 @@ blocks:
       * Network Analytics
       * Protocol Governance
       * White papers
-
     items:
       - image:
           src: /uploads/filecoin-logo.svg
@@ -331,7 +330,7 @@ blocks:
       padding: 'pt-52 pb-0 pr-20 pl-20 sm:pt-52 sm:pb-14 sm:pr-5 sm:pl-5'
       featureContent: 'w-3/4 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-center'
       labelStyles: text-black undefined undefined
-      headlineStyles: 'text-black mg-heading-2 '
+      headlineStyles: text-black mg-heading-2 mb-6
       subheadStyles: text-black mg-paragraph undefined
       textStyles: text-black mg-heading-4 undefined
     cardStyle:
@@ -367,19 +366,16 @@ blocks:
     items:
       - headline: Workshops
         subhead: ''
-        body: |+
+        body: |
           ![](/uploads/CryptoEconDay_1.jpg)
-
       - headline: Presentations
         subhead: ''
-        body: |+
+        body: |
           ![](/uploads/CryptoEconDay_2.png)
-
       - headline: Demos
         subhead: ''
-        body: |+
+        body: |
           ![](/uploads/CryptoEconDay_3.png)
-
     navigationLabel: CryptoEconDay
     _template: cards
   - style:
@@ -434,6 +430,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
