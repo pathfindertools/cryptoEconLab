@@ -305,18 +305,15 @@ blocks:
     label: ''
     headline: Resources
     subhead: >-
-      We are passionate about giving back to the community. Please check our
-      research, publications, talks and presentations we have recently held. If
-      you would like to see more, make sure to subscribe to our YouTube channel,
-      follow our blog on Medium or connect with us on Twitter and LinkedIn for
-      all updated content.
+      We are passionate about giving back to the community. All our research,
+      publications, and talks are available online
     body: ''
     items:
       - headline: ''
         subhead: ''
         text: ''
         link: 'https://hackmd.io/@cryptoecon/Bkit3d6ej/%2FvTAGfLTITEmokbPAhhKUaA'
-        buttonLabel: Economic Reports & Publications
+        buttonLabel: Technical Reports
       - text: ''
         link: 'https://github.com/protocol/CryptoEconLab'
         buttonLabel: GitHub Repos & Commits
@@ -392,6 +389,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
