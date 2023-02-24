@@ -54,7 +54,7 @@ blocks:
       cardWrap: max-w-4xl mx-auto flex align-center justify-center flex-wrap
       card: 'shadow-lg w-1/2 px-10 py-12 sm:p-6 mb-12'
       cardImageWrap: ''
-      cardImage: 'mr-3 sm:mr-0 sm:mb-5'
+      cardImage: mr-0 mb-5
       cardContentWrap: h-full whitespace-wrap
       cardContent: ''
       cardHeadline: ''
@@ -434,6 +434,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
