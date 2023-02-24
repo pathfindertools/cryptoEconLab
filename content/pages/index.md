@@ -203,7 +203,7 @@ blocks:
           ##### Maria Silva, PhD
 
 
-          Elliptic, Feedzai
+          Elliptic, Feedzai, NOVA-IMS
       - image:
           src: /uploads/Screen Shot 2023-02-07 at 9.33.40 AM.png
           alt: Mike McCoy
@@ -430,6 +430,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
