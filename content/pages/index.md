@@ -115,7 +115,7 @@ blocks:
           about how we helped Saturn Network design their incentives mechanisms
           in our [in-depth technical
           report](https://hackmd.io/@cryptoecon/saturn-aliens/%2FYOuJDLUUQieYfpEcAYSCfQ).
-    navigationLabel: Who We Are
+    navigationLabel: What We Do
     _template: tailwindCards
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -468,6 +468,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
