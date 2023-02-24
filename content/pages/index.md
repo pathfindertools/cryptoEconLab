@@ -50,7 +50,7 @@ blocks:
       label: ''
       headline: 'text-black mg-heading-2 mb-6 sm:text-black sm:mg-heading-1 w-full'
       subhead: text-black mg-heading-5 mb-12
-      text: ''
+      text: 'text-black mg-paragraph md:pl-0 mb-5 md:w-full'
       buttons: ''
       button: ''
       cardWrap: max-w-4xl mx-auto
@@ -565,6 +565,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
