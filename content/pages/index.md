@@ -24,7 +24,7 @@ blocks:
       position: object-left-bottom
     label: ''
     headline: 'Design, research and modelling to enable robust incentives and tokenomics'
-    subhead: Crypto Economics looking forward
+    subhead: Our Moto
     body: >
       CryptoEconLab is an R\&D cryptoeconomics lab operating at the unique
       intersection of blockchain technology, computer science, network science,
@@ -549,6 +549,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
