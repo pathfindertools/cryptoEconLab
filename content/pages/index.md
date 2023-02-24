@@ -287,7 +287,7 @@ blocks:
       cardButtons: >-
         border border-gray-dark rounded-lg p-2 h-full flex flex-col
         justify-center
-      cardButton: ' text-accent2 mg-paragraph-small text-center'
+      cardButton: ' text-accent2 text-center'
     background:
       fillStyles: ' opacity-100'
       src: ''
@@ -430,6 +430,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
