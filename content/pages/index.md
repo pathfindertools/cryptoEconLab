@@ -276,7 +276,7 @@ blocks:
       content: 'min-h-0 text-center sm:w-full sm:min-h-0'
       label: ''
       headline: mg-heading-2 mb-6
-      subhead: mg-paragraph mb-4
+      subhead: mg-paragraph mb-8
       text: mg-paragraph
       buttons: ''
       button: ''
