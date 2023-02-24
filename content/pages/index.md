@@ -64,7 +64,7 @@ blocks:
       cardHeadline: 'mg-heading-4 text-center sm:w-full'
       cardText: 'mg-paragraph sm:text-left'
     background:
-      fillStyles: from-white to-primary bg-gradient-to-b opacity-100
+      fillStyles: ' opacity-100'
       src: ''
       position: object-top
       ornaments:
@@ -116,103 +116,6 @@ blocks:
           in our [in-depth technical
           report](https://hackmd.io/@cryptoecon/saturn-aliens/%2FYOuJDLUUQieYfpEcAYSCfQ).
     navigationLabel: Who We Are
-    _template: tailwindCards
-  - tailwind:
-      section: pb-20 pr-6 pl-6 border-b-1 border-gray-dark
-      wrap: ''
-      imageWrap: ''
-      image: ''
-      contentWrap: 'w-2/3 max-w-4xl mx-auto sm:w-full'
-      content: 'min-h-0 text-center sm:w-full sm:min-h-0'
-      label: ''
-      headline: mg-heading-3 mb-20
-      subhead: ''
-      text: mg-paragraph
-      buttons: ''
-      button: ''
-      cardWrap: max-w-4xl mx-auto
-      card: >-
-        border rounded-xl border-gray-dark flex items-center sm:flex-col pr-10
-        py-12 sm:p-6 mb-12
-      cardImageWrap: 'flex flex-col w-1/2 sm:w-full justify-center items-center px-12 my-8'
-      cardImage: mb-6
-      cardContentWrap: 'w-1/2 sm:w-full sm:mb-8'
-      cardHeadline: mg-heading-5 text-center w-3/4
-      cardText: mg-paragraph text-left
-    background:
-      fillStyles: from-primary to-white bg-gradient-to-b opacity-100
-    label: ''
-    headline: Focus Areas
-    subhead: ''
-    body: ''
-    items:
-      - image:
-          src: /uploads/gears.svg
-        headline: Mechanism & Token Design
-        subhead: ''
-        text: >
-          For teams building new projects (or doing major revamps on their
-          current project), we can provide support and guidance in designing the
-          underlying economic model and tokenomics.
-
-
-          This involves defining the system and actors and designing the main
-          economic mechanisms and policies. We can provide a proposal for the
-          mechanisms that can be used (and their tradeoffs), build simulations,
-          and tune parameters based on economic goals
-      - image:
-          src: /uploads/graph.svg
-        headline: Protocol Impact Analysis
-        subhead: ''
-        text: >
-          Technical changes to protocols lead to impacts on the economics of the
-          system. In these cases, we can assess the potential impact of a
-          specific change proposal and propose mitigation strategies.
-
-
-          This involves understanding the change and the current economic model
-          of the project, building simulations to quantify the impact on a set
-          of economic metrics, and communicating the economic tradeoffs of the
-          change.
-      - image:
-          src: /uploads/eye.svg
-        headline: Economic Audits
-        subhead: ''
-        text: >
-          For teams with ongoing projects or newly launched projects, we can
-          provide a critical analysis of the underlying economic model and
-          tokenomics. Such analysis has two main benefits, namely, uncovering
-          potential issues with the current design and increasing confidence in
-          the project.
-
-
-          This includes a description of the incentives of the system's main
-          actors, an analysis of the reward mechanisms, and a simulation-based
-          stress-test of the main metrics that characterize the system's
-          economy.
-      - image:
-          src: /uploads/blob.svg
-        headline: Network Analytics & Monitoring
-        text: >
-          Evaluate and analyze the performance of blockchain networks.
-          Monitoring and tracking key metrics such as transaction throughput,
-          latency, block size, and block time. Helping teams identify any issues
-          that may be hindering the performance of their network and also to
-          better understand user behavior and trends.
-      - image:
-          src: /uploads/square_circle_graph.svg
-        headline: Business Strategy & Market Opportunity Assessment
-        text: >
-          Analyzing the potential of cryptocurrency and blockchain projects.
-          These assessments involve examining the project's value proposition to
-          consumers, revenue generating opportunities, and defining success
-          metrics and key performance indicators (KPIs) in the long-term.
-
-
-          Assessments also involve analyzing the competitive environment,
-          identifying potential risks, and identifying opportunities for growth.
-          Ultimately, these assessments are used to help determine whether the
-          project is worth investing in or not.
     _template: tailwindCards
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -565,6 +468,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
