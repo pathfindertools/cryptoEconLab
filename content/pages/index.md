@@ -327,13 +327,13 @@ blocks:
     navigationLabel: Resources
     _template: tailwindCards
   - style:
-      alignment: flex-col-reverse items-start gap-6
-      padding: pt-20 pb-20 pr-20 pl-20
-      featureContent: w-1/2 min-h-0 text-left
-      labelStyles: text-black
-      headlineStyles: text-black
-      subheadStyles: text-black
-      textStyles: text-black
+      alignment: flex-col-reverse items-center gap-6
+      padding: 'pt-52 pb-14 pr-20 pl-20 sm:pt-52 sm:pb-14 sm:pr-5 sm:pl-5'
+      featureContent: 'w-3/4 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-center'
+      labelStyles: text-black undefined undefined
+      headlineStyles: 'text-black mg-heading-2 '
+      subheadStyles: text-black mg-paragraph undefined
+      textStyles: text-black mg-heading-4 undefined
     cardStyle:
       fillStyles: bg-gray
       grid: grid-cols-3 items-start gap-6
@@ -416,6 +416,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
