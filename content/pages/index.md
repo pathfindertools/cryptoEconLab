@@ -355,6 +355,7 @@ blocks:
       ornaments:
         - src: /uploads/crypto-econ-day.svg
           alignment: top
+          yOffset: '100'
     label: ''
     headline: CryptoEconDay
     subhead: >-
@@ -441,6 +442,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
