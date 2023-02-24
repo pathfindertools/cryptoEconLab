@@ -367,7 +367,7 @@ blocks:
       subheadStyles: text-black undefined undefined
       textStyles: text-black mg-paragraph undefined
     background:
-      fillStyles: bg-primary opacity-100
+      fillStyles: ' opacity-100'
       ornaments:
         - src: /uploads/contact.svg
           alignment: top
@@ -391,6 +391,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
