@@ -23,20 +23,13 @@ blocks:
       src: /uploads/cryptoeconlab_hero.png
       position: object-left-bottom
     label: ''
-    headline: >-
-      CryptoEconLab offers cryptoeconomic services that enable teams to design
-      and maintain robust incentives and tokenomics.
-    subhead: What We Do
+    headline: 'Design, research and modelling to enable robust incentives and tokenomics'
+    subhead: CryptoEconomics looking forward
     body: >
-      We are an R\&D cryptoeconomics lab operating at the unique intersection of
-      blockchain technology, computer science, network science, statistics,
-      economics, and systems engineering.
+      CryptoEconLab is an R\&D cryptoeconomics lab operating at the unique
+      intersection of blockchain technology, computer science, network science,
+      statistics, economics, and systems engineering.
 
-
-      Our specialties include token design, mechanism/incentive design, economic
-      audits, network analytics, and protocol governance.\
-
-      \
 
       We enable the creation of new financial markets, the development of novel
       digital asset products, and the exploration of new investment
@@ -556,6 +549,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
