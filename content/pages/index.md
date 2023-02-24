@@ -75,11 +75,20 @@ blocks:
           xOffset: ''
           yOffset: '100'
     label: ''
-    headline: Who We Are
+    headline: What We Do
     subhead: >-
-      CryptoEconLab is split in two core functions developing projects that have
-      a positive impact on the global economy:
-    body: ''
+      We work with various teams and organisations to develop incentives and
+      tokenomics capable of supporting long-term growth.
+    body: |+
+      How do we do this?  We support teams throughout their entire journey:
+
+      * Token Design
+      * Mechanism Design
+      * Simulation and modelling
+      * Economic Audits
+      * Network Analytics
+      * Protocol Governance
+
     items:
       - image:
           src: /uploads/filecoin-logo.svg
@@ -556,6 +565,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
