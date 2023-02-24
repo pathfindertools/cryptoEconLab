@@ -75,11 +75,8 @@ blocks:
     subhead: >-
       We work with various teams and organisations to develop incentives and
       tokenomics capable of supporting long-term growth.
-    body: |+
-
-
+    body: |
       ![](/uploads/services.svg)
-
     items:
       - image:
           src: /uploads/filecoin-logo.svg
@@ -88,14 +85,14 @@ blocks:
         subhead: ''
         text: >
           We play a big role in the Filecoin ecosystem by developing its
-          [tokenomics](https://medium.com/tldrfilecoin/filecoin-tokenomics-understanding-an-advancing-economy-ef319632ffa8)
+          **[tokenomics](https://medium.com/tldrfilecoin/filecoin-tokenomics-understanding-an-advancing-economy-ef319632ffa8)**
           and actively participating in its governance process. Check out our
-          [Circulating supply
-          model](https://github.com/protocol/filecoin-mecha-twin), our research
-          on [Filecoin’s gas
-          economy](https://hackmd.io/@cryptoecon/Bkit3d6ej/%2FeJgfrnzBR8KB4OSJ3aDrOw)
-          or our [reviews of improvement
-          proposals](https://hackmd.io/@cryptoecon/Bkit3d6ej/%2F7BE_wA7iT_GtBziRrfCeXQ).
+          **[Circulating supply
+          model](https://github.com/protocol/filecoin-mecha-twin)**, our
+          research on **[Filecoin’s gas
+          economy](https://hackmd.io/@cryptoecon/Bkit3d6ej/%2FeJgfrnzBR8KB4OSJ3aDrOw)**
+          or our reviews of **[improvement
+          proposals](https://hackmd.io/@cryptoecon/Bkit3d6ej/%2F7BE_wA7iT_GtBziRrfCeXQ)**.
       - image:
           src: /uploads/blob.svg
           alt: CryptoEconLab icon
@@ -423,6 +420,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
