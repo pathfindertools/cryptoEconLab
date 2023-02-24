@@ -51,7 +51,7 @@ blocks:
       text: 'text-black mg-paragraph md:pl-0 mb-5 md:w-full'
       buttons: ''
       button: ''
-      cardWrap: max-w-5xl mx-auto flex align-center justify-center flex-wrap
+      cardWrap: max-w-m mx-auto flex align-center justify-center flex-wrap
       card: 'border rounded-xl border-gray-dark px-10 py-12 sm:p-6 mb-12'
       cardImageWrap: >-
         flex justify-center items-center mb-8 sm:mb-6 sm:flex-column
@@ -434,6 +434,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
