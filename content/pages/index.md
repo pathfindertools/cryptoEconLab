@@ -350,6 +350,11 @@ blocks:
       textStyles: text-black mg-paragraph-small undefined
       buttonLayout: undefined
       buttonWidth: undefined
+    background:
+      fillStyles: ' opacity-100'
+      ornaments:
+        - src: /uploads/crypto-econ-day.svg
+          alignment: top
     label: ''
     headline: CryptoEconDay
     subhead: >-
@@ -436,6 +441,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
