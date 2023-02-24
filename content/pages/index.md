@@ -150,10 +150,10 @@ blocks:
     label: ''
     headline: Our Team
     subhead: >-
-      We combine the expertise of economics and network design with
-      crypto-native primitives at scale. Our team has in depth knowledge and
-      global representation across the Americas, EMEA and APAC
-    body: "##### **Join Us! We're Hiring:**\n\n[\U0001F4DD Apply Here](https://boards.greenhouse.io/protocollabs \"Apply Here\")\n"
+      We combine our expertise of economics, mechanism design and modelling with
+      crypto-native primitives at scale. Our team has in-depth knowledge and
+      global representation across the Americas, EMEA and APAC.
+    body: ''
     items:
       - image:
           src: /uploads/axel-cortes-cubero.jpg
@@ -468,6 +468,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
