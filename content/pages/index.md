@@ -83,6 +83,19 @@ blocks:
     items:
       - image:
           src: /uploads/filecoin-logo.svg
+        label: ''
+        headline: ''
+        subhead: ''
+        text: >
+          We play a big role in the Filecoin ecosystem by developing its
+          [tokenomics](https://medium.com/tldrfilecoin/filecoin-tokenomics-understanding-an-advancing-economy-ef319632ffa8)
+          and actively participating in its governance process. Check out our
+          [Circulating supply
+          model](https://github.com/protocol/filecoin-mecha-twin), our research
+          on [Filecoin’s gas
+          economy](https://hackmd.io/@cryptoecon/Bkit3d6ej/%2FeJgfrnzBR8KB4OSJ3aDrOw)
+          or our [reviews of improvement
+          proposals](https://hackmd.io/@cryptoecon/Bkit3d6ej/%2F7BE_wA7iT_GtBziRrfCeXQ).
       - image:
           src: /uploads/CEL-Symbol-Black-NoFill.svg
           alt: CryptoEconLab icon
@@ -543,6 +556,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
