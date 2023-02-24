@@ -335,14 +335,21 @@ blocks:
       subheadStyles: text-black mg-paragraph undefined
       textStyles: text-black mg-heading-4 undefined
     cardStyle:
-      fillStyles: bg-gray
-      grid: grid-cols-3 items-start gap-6
-      imagePadding: pt-0 pr-0 pb-0 pl-0
-      contentPadding: pt-2 pr-2 pb-2 pl-2
-      labelStyles: text-black
-      headlineStyles: text-black
-      subheadStyles: text-black
-      textStyles: text-black
+      fillStyles: ' opacity-100'
+      grid: >-
+        grid-cols-3 justify-center gap-6 sm:grid-cols-1 sm:justify-center
+        sm:gap-6
+      alignment: flex-col items-center  undefined
+      image: ' hpx-158 object-center object-cover'
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      contentPadding: 'pt-3.5 pb-5 pr-2 pl-2 sm:pt-5 sm:pb-5 sm:pr-2 sm:pl-2'
+      borderStyles: border-white border-0
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black mg-heading-4 undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black mg-paragraph-small undefined
+      buttonLayout: undefined
+      buttonWidth: undefined
     label: ''
     headline: Headline
     subhead: Subhead
@@ -416,6 +423,7 @@ meta:
     maintain robust incentives & tokenomics.
   ogImage: /uploads/cel-social-sharing-img.jpg
 ---
+
 
 
 
