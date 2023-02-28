@@ -388,8 +388,10 @@ blocks:
       **[Learn More ](https://www.cryptoeconday.io/ "CryptoEconDay")**
 
 
-      Join us at CryptoEconDay Denver on March 1, 2023. You can also watch it
-      online [here](https://www.youtube.com/watch?v=pRb1BSPZvRk).
+      Join us at [CryptoEconDay
+      Denver](https://www.cryptoeconday.io/event-schedule/cryptoeconday-ethdenver)
+      on March 1, 2023. You can also watch it online
+      [here](https://www.youtube.com/watch?v=pRb1BSPZvRk).
 
     navigationLabel: ''
     _template: feature
@@ -425,6 +427,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
