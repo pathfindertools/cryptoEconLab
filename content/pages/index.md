@@ -378,14 +378,19 @@ blocks:
       labelStyles: text-black undefined undefined
       headlineStyles: text-black mg-heading-2 mb-9
       subheadStyles: text-black mg-paragraph mb-4
-      textStyles: text-accent2 mg-heading-5 mb-6
+      textStyles: text-accent4 mg-paragraph mb-6
     background:
       fillStyles: ' opacity-100'
       position: ''
     headline: ''
     subhead: 800+ attendees | 50+ presentations in 2022 | 70+ institutions
-    body: |
-      [Learn More ](https://www.cryptoeconday.io/ "CryptoEconDay")
+    body: >+
+      **[Learn More ](https://www.cryptoeconday.io/ "CryptoEconDay")**
+
+
+      Join us at CryptoEconDay Denver on March 1, 2023. You can also watch it
+      online [here](https://www.youtube.com/watch?v=pRb1BSPZvRk).
+
     navigationLabel: ''
     _template: feature
   - style:
@@ -420,6 +425,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
