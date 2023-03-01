@@ -384,7 +384,7 @@ blocks:
       position: ''
     headline: ''
     subhead: 800+ attendees | 50+ presentations in 2022 | 70+ institutions
-    body: >+
+    body: >
       **[Learn More ](https://www.cryptoeconday.io/ "CryptoEconDay")**
 
 
@@ -392,7 +392,6 @@ blocks:
       Denver](https://www.cryptoeconday.io/event-schedule/cryptoeconday-ethdenver)
       on March 1, 2023. You can also watch it online
       [here](https://www.youtube.com/watch?v=pRb1BSPZvRk).
-
     navigationLabel: ''
     _template: feature
   - style:
@@ -414,11 +413,12 @@ blocks:
           yOffset: '76'
     headline: Contact Us
     subhead: ''
-    body: >
+    body: >+
       <SocialLinks linkedin="https://www.linkedin.com/company/cryptoeconlab/"
-      twitter="https://mobile.twitter.com/cryptoeconlab" iconSize="default"
+      twitter="https://twitter.com/cryptoeconlab" iconSize="default"
       email="cel@protocol.ai"
-      youtube="https://www.youtube.com/@cryptoeconlabvideos/videos" />
+      youtube="https://www.youtube.com/@cryptoeconlabvideos" />
+
     navigationLabel: Contact
     _template: feature
 backgroundColor: white
@@ -427,6 +427,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
