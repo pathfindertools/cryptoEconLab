@@ -144,7 +144,7 @@ blocks:
     body: ''
     items:
       - image:
-          src: /uploads/axel-cortes-cubero.jpg
+          src: /uploads/Screen Shot 2023-03-06 at 1.23.26 PM.png
           alt: Axel Cortés Cubero
         headline: ''
         subhead: ''
@@ -413,12 +413,11 @@ blocks:
           yOffset: '76'
     headline: Contact Us
     subhead: ''
-    body: >+
+    body: >
       <SocialLinks linkedin="https://www.linkedin.com/company/cryptoeconlab/"
       twitter="https://twitter.com/cryptoeconlab" iconSize="default"
       email="cel@protocol.ai"
       youtube="https://www.youtube.com/@cryptoeconlabvideos" />
-
     navigationLabel: Contact
     _template: feature
 backgroundColor: white
@@ -427,6 +426,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
