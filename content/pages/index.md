@@ -46,6 +46,30 @@ blocks:
       text: 'align-center mb-5 w-4/5 mx-auto sm:w-full'
       buttons: ''
       button: ''
+    label: ''
+    headline: What We Do
+    subhead: >-
+      We work with various teams and organisations to develop incentives and
+      tokenomics capable of supporting long-term growth.
+    body: |+
+      This is a rich text component you can add hyperlinks, etc.
+
+      ![](</uploads/CELA services v3.svg>)
+
+    _template: tailwindCards
+  - tailwind:
+      section: 'pt-52 pb-10 pr-6 pl-6 sm:pb-6'
+      wrap: ''
+      imageWrap: ''
+      image: ''
+      contentWrap: 'w-2/3 max-w-4xl mx-auto sm:w-full '
+      content: 'min-h-0 text-center sm:w-full sm:min-h-0'
+      label: ''
+      headline: 'text-black mg-heading-2 mb-6 sm:text-black sm:mg-heading-1 w-full'
+      subhead: text-black mg-heading-5 mb-5
+      text: 'align-center mb-5 w-4/5 mx-auto sm:w-full'
+      buttons: ''
+      button: ''
       cardWrap: max-w-4xl mx-auto flex align-center justify-center flex-wrap
       card: 'w-1/3 px-10 ml-3 mr-3 py-12 sm:w-full mb-10 border-3 rounded-lg'
       cardImageWrap: ''
@@ -415,6 +439,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
