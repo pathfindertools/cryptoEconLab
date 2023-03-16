@@ -14,7 +14,7 @@ blocks:
         text-black mg-heading-1 mb-24 sm:text-black sm:mg-heading-1 sm:mb-14
         w-full
       subhead: 'text-gray mg-heading-2 mb-7 w-full md:pr-40'
-      text: 'text-black mg-paragraph pl-5 md:pl-0 mb-0 w-full'
+      text: text-black mg-paragraph mb-0 w-full
       buttons: ''
     background:
       fillStyles: ' opacity-100'
@@ -426,6 +426,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
