@@ -81,9 +81,9 @@ blocks:
         headline: ''
         subhead: ''
         text: >
-          We play a big role in the Filecoin ecosystem by developing its
-          **[tokenomics]()** and actively participating in its governance
-          process.
+          We play a key role in the Filecoin network by developing its
+          **tokenomics** and actively participating in its **governance
+          process**.
       - image:
           src: /uploads/blob.svg
           alt: CryptoEconLab icon
@@ -415,6 +415,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
