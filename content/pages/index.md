@@ -52,10 +52,9 @@ blocks:
       We work with various teams and organisations to develop incentives and
       tokenomics capable of supporting long-term growth.
     body: |+
-      This is a rich text component you can add hyperlinks, etc.
-
       ![](</uploads/CELA services v3.svg>)
 
+    navigationLabel: What We Do
     _template: tailwindCards
   - tailwind:
       section: 'pt-52 pb-10 pr-6 pl-6 sm:pb-6'
@@ -92,7 +91,7 @@ blocks:
           xOffset: ''
           yOffset: '100'
     label: ''
-    headline: What We Do
+    headline: ''
     subhead: >-
       We work with various teams and organisations to develop incentives and
       tokenomics capable of supporting long-term growth.
@@ -439,6 +438,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
