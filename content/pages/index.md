@@ -38,7 +38,7 @@ blocks:
       wrap: ''
       imageWrap: ''
       image: ''
-      contentWrap: 'w-2/3 max-w-4xl mx-auto sm:w-full'
+      contentWrap: 'w-2/3 max-w-4xl mx-auto sm:w-full '
       content: 'min-h-0 text-center sm:w-full sm:min-h-0'
       label: ''
       headline: 'text-black mg-heading-2 mb-6 sm:text-black sm:mg-heading-1 w-full'
@@ -83,23 +83,15 @@ blocks:
         text: >
           We play a big role in the Filecoin ecosystem by developing its
           **[tokenomics](https://medium.com/tldrfilecoin/filecoin-tokenomics-understanding-an-advancing-economy-ef319632ffa8)**
-          and actively participating in its governance process. Check out our
-          **[circulating supply
-          model](https://github.com/protocol/filecoin-mecha-twin)**, our
-          research on **[Filecoin’s gas
-          economy](https://hackmd.io/@cryptoecon/Bkit3d6ej/%2FeJgfrnzBR8KB4OSJ3aDrOw)**
-          or our reviews of **[improvement
-          proposals](https://hackmd.io/@cryptoecon/Bkit3d6ej/%2F7BE_wA7iT_GtBziRrfCeXQ)**.
+          and actively participating in its governance process.
       - image:
           src: /uploads/blob.svg
           alt: CryptoEconLab icon
         headline: ''
         subhead: ''
         text: >
-          We also support other projects design and audit their economics. Learn
-          about how we helped Saturn Network design their incentives mechanisms
-          in our **[in-depth technical
-          report](https://hackmd.io/@cryptoecon/saturn-aliens/%2FYOuJDLUUQieYfpEcAYSCfQ)**.
+          We also support other teams with the design, simulation, and audit of
+          their incentives and tokenomics.
     navigationLabel: What We Do
     _template: tailwindCards
   - style:
@@ -423,6 +415,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
