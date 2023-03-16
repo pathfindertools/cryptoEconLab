@@ -73,7 +73,7 @@ blocks:
       We work with various teams and organisations to develop incentives and
       tokenomics capable of supporting long-term growth.
     body: |
-      ![](</uploads/CELA services v2.jpg>)
+      ![](</uploads/CELA services v3.svg>)
     items:
       - image:
           src: /uploads/filecoin-logo.svg
@@ -415,6 +415,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
