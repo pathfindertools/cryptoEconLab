@@ -22,7 +22,7 @@ blocks:
       position: object-left-bottom
     label: ''
     headline: 'Design, research, and modeling to enable robust incentives and tokenomics'
-    subhead: Thesis
+    subhead: ''
     body: >
       CryptoEconLab is an R\&D cryptoeconomics lab operating at the unique
       intersection of blockchain technology, computer science, network science,
@@ -426,6 +426,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
