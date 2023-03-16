@@ -46,6 +46,15 @@ blocks:
       text: 'align-center mb-5 w-4/5 mx-auto sm:w-full'
       buttons: ''
       button: ''
+    background:
+      fillStyles: ' opacity-100'
+      position: object-top
+      ornaments:
+        - src: /uploads/hexagon.svg
+          alignment: top
+          width: '70'
+          height: '80'
+          yOffset: '100'
     label: ''
     headline: What We Do
     subhead: >-
@@ -438,6 +447,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
