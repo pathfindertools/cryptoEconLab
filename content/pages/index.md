@@ -22,19 +22,18 @@ blocks:
     headline: 'Design, research, and modeling to enable robust incentives and tokenomics'
     subhead: ''
     body: >
-      CryptoEconLab is an R\&D cryptoeconomics lab operating at the unique
-      intersection of blockchain technology, computer science, network science,
-      statistics, economics, and systems engineering.
+      CryptoEconLab is an R\&D lab focused on blockchain technology, computer
+      science, network science, statistics, economics, and systems engineering.
 
 
-      We enable the creation of new financial markets, the development of novel
-      digital asset products, and the exploration of new investment
+      We support web3 projects and decentralized communities with data-driven
+      analysis, community events, and novel research.
+
+
+      We believe that cryptoeconomics plays an important role in coordinating
+      human and machine activities in decentralized networks and it has the
+      potential to unlock novel digital asset products and new investment
       opportunities.
-
-
-      **In an increasingly networked and open world, cryptoeconomics will play
-      an ever larger role in coordinating human and machine activities in
-      building a better future.**
     _template: tailwindFeature
   - tailwind:
       section: 'pt-52 pb-10 pr-6 pl-6 sm:pb-6'
@@ -424,6 +423,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
