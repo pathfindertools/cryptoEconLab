@@ -43,7 +43,7 @@ blocks:
       label: mg-paragraph mb-8
       headline: 'text-black mg-heading-2 mb-6 sm:text-black sm:mg-heading-1 w-full'
       subhead: mg-paragraph mb-8
-      text: 'align-center mb-5 w-4/5 mx-auto sm:w-full'
+      text: 'align-center mg-paragraph mb-8 w-4/5 mx-auto sm:w-full'
       buttons: ''
       button: ''
     background:
@@ -60,9 +60,14 @@ blocks:
     subhead: >-
       We work with various teams and organisations to develop incentives and
       tokenomics capable of supporting long-term growth.
-    body: |+
+    body: >
       ![](</uploads/CELA services v3.svg>)
 
+
+
+
+      If you are interested in working with us, reach out at
+      [cel@protocol.ai](mailto:cel@protocol.ai)
     navigationLabel: What We Do
     _template: tailwindCards
   - tailwind:
@@ -432,6 +437,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
