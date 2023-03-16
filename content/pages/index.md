@@ -47,7 +47,7 @@ blocks:
       buttons: ''
       button: ''
       cardWrap: max-w-4xl mx-auto flex align-center justify-center flex-wrap
-      card: 'shadow-lg w-1/2 px-10 py-12 sm:w-full mb-16'
+      card: 'w-1/2 px-10 py-12 sm:w-full mb-16'
       cardImageWrap: ''
       cardImage: 'mr-3 mb-5 sm:mr-0'
       cardContentWrap: h-full whitespace-wrap
@@ -421,6 +421,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
