@@ -94,7 +94,7 @@ blocks:
       position: object-top
     label: ''
     headline: ''
-    subhead: ''
+    subhead: Previous Work
     body: |
       ![]()
     items:
@@ -438,6 +438,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
