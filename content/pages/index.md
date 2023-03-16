@@ -24,8 +24,8 @@ blocks:
     body: >
       CryptoEconLab is an R\&D lab working at the intersection of statistics,
       economics, and blockchain technology. We support web3 projects and
-      decentralized communities with data-driven analysis, community events, and
-      novel research.
+      decentralized communities with data-driven analysis, community
+      engagements, and novel research.
 
 
       We believe that cryptoeconomics plays an important role in coordinating
@@ -62,8 +62,6 @@ blocks:
       tokenomics capable of supporting long-term growth.
     body: >
       ![](</uploads/CELA services v3.svg>)
-
-
 
 
       If you are interested in working with us, reach out at
@@ -437,6 +435,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
