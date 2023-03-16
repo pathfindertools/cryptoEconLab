@@ -92,20 +92,11 @@ blocks:
       fillStyles: ' opacity-100'
       src: ''
       position: object-top
-      ornaments:
-        - src: /uploads/hexagon.svg
-          alignment: top
-          width: '70'
-          height: '80'
-          xOffset: ''
-          yOffset: '100'
     label: ''
     headline: ''
-    subhead: >-
-      We work with various teams and organisations to develop incentives and
-      tokenomics capable of supporting long-term growth.
+    subhead: ''
     body: |
-      ![](</uploads/CELA services v3.svg>)
+      ![]()
     items:
       - image:
           src: /uploads/filecoin-logo.svg
@@ -124,7 +115,7 @@ blocks:
         text: >
           We also support other teams with the design, simulation, and audit of
           their incentives and tokenomics.
-    navigationLabel: What We Do
+    navigationLabel: ''
     _template: tailwindCards
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -447,6 +438,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
