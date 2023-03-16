@@ -10,9 +10,7 @@ blocks:
         w-2/3 max-w-4xl mx-auto min-h-0 text-left sm:w-full sm:min-h-0
         sm:text-left flex flex-wrap
       label: ''
-      headline: >-
-        text-black mg-heading-1 mb-24 sm:text-black sm:mg-heading-1 sm:mb-14
-        w-full
+      headline: 'text-black mg-heading-1 mb-14 sm:text-black sm:mg-heading-1 w-full'
       subhead: 'text-gray mg-heading-2 mb-7 w-full md:pr-40'
       text: text-black mg-paragraph mb-0 w-full
       buttons: ''
@@ -426,6 +424,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
