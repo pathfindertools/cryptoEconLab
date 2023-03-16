@@ -34,7 +34,7 @@ blocks:
       opportunities.
     _template: tailwindFeature
   - tailwind:
-      section: 'pt-52 pb-10 pr-6 pl-6 sm:pb-6'
+      section: pt-52 pr-6 pl-6
       wrap: ''
       imageWrap: ''
       image: ''
@@ -66,7 +66,7 @@ blocks:
     navigationLabel: What We Do
     _template: tailwindCards
   - tailwind:
-      section: 'pt-52 pb-10 pr-6 pl-6 sm:pb-6'
+      section: 'pt-10 pb-10 pr-6 pl-6 sm:pb-6'
       wrap: ''
       imageWrap: ''
       image: ''
@@ -438,6 +438,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
