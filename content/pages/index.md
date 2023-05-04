@@ -315,7 +315,7 @@ blocks:
       - headline: ''
         subhead: ''
         text: ''
-        link: 'https://hackmd.io/@cryptoecon/Bkit3d6ej/%2FvTAGfLTITEmokbPAhhKUaA'
+        link: 'https://hackmd.io/@cryptoecon/almanac'
         buttonLabel: Technical Reports
       - text: ''
         link: 'https://medium.com/cryptoeconlab'
@@ -435,6 +435,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
