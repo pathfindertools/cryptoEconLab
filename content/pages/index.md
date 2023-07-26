@@ -376,8 +376,11 @@ blocks:
           ![](/uploads/CryptoEconDay_1.jpg)
       - headline: Presentations
         subhead: ''
-        body: |
-          ![](/uploads/CryptoEconDay_2.png)
+        body: |+
+
+
+          ![](/uploads/FulL9dcWIAMDO25.jpeg)
+
       - headline: Demos
         subhead: ''
         body: |
@@ -434,6 +437,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
