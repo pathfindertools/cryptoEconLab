@@ -60,7 +60,7 @@ blocks:
       We work with various teams and organisations to develop incentives and
       tokenomics capable of supporting long-term growth.
     body: >
-      ![](</uploads/CELA services v3.svg>)
+      ![](</uploads/CELA services.png>)
 
 
       If you are interested in working with us, reach out at
@@ -440,6 +440,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
