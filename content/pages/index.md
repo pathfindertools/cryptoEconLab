@@ -321,7 +321,7 @@ blocks:
         buttonLabel: Case Studies
       - text: ''
         link: 'https://github.com/protocol/CryptoEconLab'
-        buttonLabel: GitHub Repo
+        buttonLabel: GitHub Contributions
       - text: ''
         link: 'https://www.cryptoeconday.io/videos'
         buttonLabel: Presentations
@@ -440,6 +440,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
