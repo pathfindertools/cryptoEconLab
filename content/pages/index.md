@@ -401,8 +401,10 @@ blocks:
       position: ''
     headline: ''
     subhead: 8K+ attendees | 30+ presentations in 2023 | 70+ institutions
-    body: |
-      **[Learn More ](https://www.cryptoeconday.io/ "CryptoEconDay")**
+    body: >
+      [Watch Previous
+      CryptoEconDay's](https://www.youtube.com/@CryptoEconLab_/playlists "Watch
+      Previous CryptoEconDay's")
     navigationLabel: ''
     _template: feature
   - style:
@@ -437,6 +439,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
