@@ -323,7 +323,7 @@ blocks:
         link: 'https://github.com/protocol/CryptoEconLab'
         buttonLabel: GitHub Contributions
       - text: ''
-        link: 'https://www.cryptoeconday.io/videos'
+        link: 'https://www.youtube.com/@CryptoEconLab_/playlists'
         buttonLabel: Presentations
       - text: ''
         link: >-
@@ -440,6 +440,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
