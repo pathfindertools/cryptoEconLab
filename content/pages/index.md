@@ -107,7 +107,7 @@ blocks:
         subhead: ''
         text: >
           We play a key role in the Filecoin network by developing its
-          **tokenomics** and actively participating in its **governance
+          **tokenomics** and actively participating in their **governance
           process**.
       - image:
           src: /uploads/blob.svg
@@ -440,6 +440,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
