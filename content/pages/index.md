@@ -426,11 +426,12 @@ blocks:
           yOffset: '76'
     headline: Contact Us
     subhead: ''
-    body: >
+    body: >+
       <SocialLinks linkedin="https://www.linkedin.com/company/cryptoeconlab/"
       twitter="https://twitter.com/cryptoeconlab" iconSize="default"
       email="cel@protocol.ai"
-      youtube="https://www.youtube.com/@cryptoeconlabvideos" />
+      youtube="https://www.youtube.com/@CryptoEconLab_/playlists" />
+
     navigationLabel: Contact
     _template: feature
 backgroundColor: white
@@ -439,6 +440,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
