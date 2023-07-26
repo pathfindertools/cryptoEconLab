@@ -115,8 +115,8 @@ blocks:
         headline: ''
         subhead: ''
         text: >
-          We also support other teams with the design, simulation, and audit of
-          their incentives and tokenomics.
+          We also support other teams with the design, simulation, and modeling
+          of their incentives and tokenomics.
     navigationLabel: ''
     _template: tailwindCards
   - style:
@@ -440,6 +440,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
