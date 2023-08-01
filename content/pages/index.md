@@ -21,12 +21,14 @@ blocks:
     image:
       src: ''
     label: ''
-    headline: Unlocking crypto's economic challenges
+    headline: >-
+      CryptoEconLab is a collective of economic research scientists unlocking
+      crypto's economic challenges
     subhead: ''
     body: >+
-      CryptoEconLab fosters exponential growth within crypto's premier
-      ecosystems, protocols, foundations, and DAOs through economic research,
-      design, and modeling solutions.
+      Fostering exponential growth for premier ecosystems, protocols,
+      foundations, and DAOs through economic research, design, and modeling
+      solutions.
 
     _template: tailwindFeature
   - tailwind:
@@ -423,6 +425,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
