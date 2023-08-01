@@ -28,9 +28,6 @@ blocks:
       ecosystems, protocols, foundations, and DAOs through economic research,
       design, and modeling solutions.
 
-
-      ![](/uploads/_b440615f-21cf-422f-9032-c2a3b5721085.jpeg)
-
     _template: tailwindFeature
   - tailwind:
       section: pt-52 pr-6 pl-6
@@ -419,6 +416,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
