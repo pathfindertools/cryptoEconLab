@@ -55,12 +55,13 @@ blocks:
     subhead: >-
       As a seasoned crypto-native economic research firm, we leverage our
       economic expertise to:
-    body: >
+    body: |
       ![](</uploads/CELA services (1).png>)
 
-
-      If you are interested in working with us, reach out at
-      [cel@protocol.ai](mailto:cel@protocol.ai)
+      [Contact us for your cryptoeconomic needs](cel@protocol.ai)
+    buttons:
+      - label: ''
+        link: ''
     navigationLabel: What We Do
     _template: tailwindCards
   - tailwind:
@@ -415,6 +416,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
