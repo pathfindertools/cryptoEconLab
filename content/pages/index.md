@@ -59,7 +59,7 @@ blocks:
     body: |
       ![](</uploads/CELA services (1).png>)
 
-      Interested in our work? Email us at cel@protocol.ai
+      Interested in our services? Email us at cel@protocol.ai
     buttons:
       - label: ''
         link: ''
@@ -416,6 +416,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
