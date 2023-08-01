@@ -51,8 +51,8 @@ blocks:
     label: ''
     headline: What We Do
     subhead: >-
-      We work with various teams and organisations to develop incentives and
-      tokenomics capable of supporting long-term growth.
+      As a seasoned crypto-native economic research firm, we leverage our
+      economic expertise to:
     body: >
       ![](</uploads/CELA services.png>)
 
@@ -430,6 +430,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
