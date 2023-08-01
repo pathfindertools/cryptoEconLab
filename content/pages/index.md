@@ -56,8 +56,15 @@ blocks:
     subhead: >-
       As a seasoned crypto-native economic research firm, we leverage our
       economic expertise to:
-    body: |
+    body: >
       ![](</uploads/CELA services (1).png>)
+
+
+      [Curious? Check out our math to find out
+      yourself](https://hackmd.io/@cryptoecon/almanac/)
+
+
+      \
 
       Interested in our services? Email us at cel@protocol.ai
     buttons:
@@ -416,6 +423,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
