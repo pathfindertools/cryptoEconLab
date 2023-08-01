@@ -93,7 +93,7 @@ blocks:
       position: object-top
     label: ''
     headline: ''
-    subhead: Endorsed by top crypto projects
+    subhead: Endorsed by industry-leading crypto projects
     body: |
       ![](</uploads/CELA Previous Work.png>)
     navigationLabel: ''
@@ -415,6 +415,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
