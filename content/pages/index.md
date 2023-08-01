@@ -25,7 +25,7 @@ blocks:
     subhead: ''
     body: >
       CryptoEconLab fosters exponential growth within crypto's premier
-      ecosystems, protocols, foundations, and DAOs through pioneering research,
+      ecosystems, protocols, foundations, and DAOs through economic research,
       design, and modeling solutions.
     _template: tailwindFeature
   - tailwind:
@@ -415,6 +415,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
