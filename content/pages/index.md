@@ -94,9 +94,8 @@ blocks:
     label: ''
     headline: ''
     subhead: Endorsed by top crypto projects
-    body: |+
+    body: |
       ![](</uploads/CELA Previous Work.png>)
-
     navigationLabel: ''
     _template: tailwindCards
   - style:
@@ -416,6 +415,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
