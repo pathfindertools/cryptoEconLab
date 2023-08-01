@@ -101,6 +101,8 @@ blocks:
           Filecoin
       - image:
           src: /uploads/Qredo-logo.png
+        text: |
+          Qredo Network
       - image:
           src: /uploads/108926577.png
           alt: ''
@@ -426,6 +428,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
