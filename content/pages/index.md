@@ -291,7 +291,7 @@ blocks:
     headline: Resources
     subhead: >-
       We are passionate about giving back to the community. All our research,
-      publications, and talks are available online
+      publications, and talks are publicly available online
     body: ''
     items:
       - headline: ''
@@ -419,6 +419,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
