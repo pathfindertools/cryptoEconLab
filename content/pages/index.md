@@ -97,6 +97,8 @@ blocks:
     items:
       - image:
           src: /uploads/Filecoin-Crypto-Logo-PNG-Images.png
+        text: |
+          Filecoin
       - image:
           src: /uploads/Qredo-logo.png
       - image:
@@ -424,6 +426,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
