@@ -60,7 +60,7 @@ blocks:
       ![](</uploads/CELA services (1).png>)
 
 
-      [Curious? Check out our math to find out
+      [Curious? Check our math to find out for
       yourself](https://hackmd.io/@cryptoecon/almanac/)
 
 
@@ -423,6 +423,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
