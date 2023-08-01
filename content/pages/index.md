@@ -19,18 +19,12 @@ blocks:
       src: /uploads/cryptoeconlab_hero.png
       position: object-left-bottom
     label: ''
-    headline: 'Design, research, and modeling to enable robust incentives and tokenomics'
+    headline: Unlocking crypto's economic challenges
     subhead: ''
     body: >
-      CryptoEconLab is an R\&D lab working at the intersection of statistics,
-      economics, and blockchain technology. We support projects and
-      decentralized communities with data-driven analysis, community
-      engagements, and novel research.
-
-
-      We empower projects, protocols and foundations in the ecosystem through
-      novel incentives and advance humanity’s understanding of multi-agent
-      systems and algorithmic steering of economic networks.
+      CryptoEconLab fosters exponential growth within crypto's premier
+      ecosystems, protocols, foundations, and DAOs through pioneering research,
+      design, and modeling solutions.
     _template: tailwindFeature
   - tailwind:
       section: pt-52 pr-6 pl-6
@@ -376,11 +370,8 @@ blocks:
           ![](/uploads/CryptoEconDay_1.jpg)
       - headline: Presentations
         subhead: ''
-        body: |+
-
-
+        body: |
           ![](/uploads/FulL9dcWIAMDO25.jpeg)
-
       - headline: Demos
         subhead: ''
         body: |
@@ -426,12 +417,11 @@ blocks:
           yOffset: '76'
     headline: Contact Us
     subhead: ''
-    body: >+
+    body: >
       <SocialLinks linkedin="https://www.linkedin.com/company/cryptoeconlab/"
       twitter="https://twitter.com/cryptoeconlab" iconSize="default"
       email="cel@protocol.ai"
       youtube="https://www.youtube.com/@CryptoEconLab_/playlists" />
-
     navigationLabel: Contact
     _template: feature
 backgroundColor: white
@@ -440,6 +430,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
