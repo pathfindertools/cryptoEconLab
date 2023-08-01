@@ -18,6 +18,8 @@ blocks:
       fillStyles: ' opacity-100'
       src: /uploads/cryptoeconlab_hero.png
       position: object-left-bottom
+    image:
+      src: ''
     label: ''
     headline: Unlocking crypto's economic challenges
     subhead: ''
@@ -91,26 +93,18 @@ blocks:
     label: ''
     headline: ''
     subhead: Previous Work
-    body: |
-      ![]()
+    body: ''
     items:
       - image:
-          src: /uploads/filecoin-logo.svg
-        label: ''
-        headline: ''
-        subhead: ''
-        text: >
-          We play a key role in the Filecoin network by developing its
-          **tokenomics** and actively participating in their **governance
-          process**.
+          src: /uploads/Filecoin-Crypto-Logo-PNG-Images.png
       - image:
-          src: /uploads/blob.svg
-          alt: CryptoEconLab icon
+          src: /uploads/Qredo-logo.png
+      - image:
+          src: /uploads/108926577.png
+          alt: ''
         headline: ''
-        subhead: ''
-        text: >
-          We also support other teams with the design, simulation, and modeling
-          of their incentives and tokenomics.
+        text: |
+          Saturn Network
     navigationLabel: ''
     _template: tailwindCards
   - style:
@@ -430,6 +424,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
