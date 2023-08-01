@@ -54,7 +54,7 @@ blocks:
       As a seasoned crypto-native economic research firm, we leverage our
       economic expertise to:
     body: >
-      ![](</uploads/CELA services.png>)
+      ![](</uploads/CELA services (1).png>)
 
 
       If you are interested in working with us, reach out at
@@ -430,6 +430,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
