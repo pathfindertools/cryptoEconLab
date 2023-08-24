@@ -22,8 +22,8 @@ blocks:
       src: ''
     label: ''
     headline: >-
-      CryptoEconLab is a collective of economic research scientists unlocking
-      crypto's economic challenges
+      CryptoEconLab is a collective of research scientists unlocking crypto's
+      economic challenges
     subhead: ''
     body: >
       Fostering exponential growth for premier ecosystems, protocols,
@@ -103,9 +103,8 @@ blocks:
     label: ''
     headline: ''
     subhead: Endorsed by industry-leading crypto projects
-    body: |+
+    body: |
       ![](</uploads/CELA Previous Work (1).png>)
-
     navigationLabel: ''
     _template: tailwindCards
   - style:
@@ -425,6 +424,7 @@ meta:
   description: 'Design, research and modelling to enable robust incentives and tokenomics'
   ogImage: /uploads/cel-website-screenshot.png
 ---
+
 
 
 
